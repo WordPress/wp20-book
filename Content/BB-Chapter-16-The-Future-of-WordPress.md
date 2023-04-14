@@ -12,7 +12,7 @@ As Josepha put it, “Phases one and two of the Gutenberg project had a very ‘
 
 Some members of the WordPress community have questioned why phase 3 – collaboration – precedes phase 4, the multilingual aspect of WordPress. Precisely this question came up in the [Q & A session](https://make.wordpress.org/project/2023/01/13/sotw22qa/) for State of the Word 2022. 
 
-Matt rewsponded, “From a technical point of view, making WordPress natively multilingual is quite challenging. Adding collaboration tools in advance will help support Phase 4 technical’s implementation and provide tools to manage multilingual content out of the box, like translation and review workflows. So Phase 3 will not just “inform” Phase 4 but will actually create the infrastructure and features central to making Phase 4 possible.”
+Matt responded, “From a technical point of view, making WordPress natively multilingual is quite challenging. Adding collaboration tools in advance will help support Phase 4 technical’s implementation and provide tools to manage multilingual content out of the box, like translation and review workflows. So Phase 3 will not just “inform” Phase 4 but will actually create the infrastructure and features central to making Phase 4 possible.”
 
 Beyond that, the future depends on the community. Speaking about contributor growth Tammie Lister says, “We need more people,” echoing the views of many contributors. Even though there are many active contributors in the WordPress project, there is always room for more. 
 

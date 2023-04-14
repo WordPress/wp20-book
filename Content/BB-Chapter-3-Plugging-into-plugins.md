@@ -34,7 +34,7 @@ But there are benefits to the fragmentation, too. “There’s a wide array of u
 
 Besides, Aaron asks, who should sift through those 60,000 plugins and identify the best? The WordPress Foundation? A committee? “That’s a lot of weight to put on a small group,” he says. 
 
-Matt says, “WordPress does best when we give people a lot of control.” In his 2022 State of the Word address he announced a new taxonomy for the plugin directory, allowing plugin developers to self-identify the type of plugins they’re offering: solo or single-player plugins, community plugins, canonical plugins which are supported by WordPress core developers, and commercial plugins which might include upsells and fremium models. This new taxonomy helps users get a clear idea of what is offered with any given plugin. 
+Matt says, “WordPress does best when we give people a lot of control.” In his 2022 State of the Word address he announced a new taxonomy for the plugin directory, allowing plugin developers to self-identify the type of plugins they’re offering: solo or single-player plugins, community plugins, canonical plugins which are supported by WordPress core developers, and commercial plugins which might include upsells and freemium models. This new taxonomy helps users get a clear idea of what is offered with any given plugin. 
 
 ### Plugin Security
 
