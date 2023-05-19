@@ -1,4 +1,5 @@
-# Building Blocks Chapter 6: The Customizer
+# Building Blocks: The Evolution of WordPress
+## Chapter 6 — The Customizer
 
 The Customizer made its debut as the theme customizer during “Grant Green” or in WordPress 3.4 in June 2012, with features added gradually over the following years. It allowed users to set the title and tagline, adjust colors and fonts, handle some images, and make other design changes without code. It was a groundbreaking and memorable change in the editor.
 
