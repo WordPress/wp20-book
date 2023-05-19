@@ -1,5 +1,5 @@
-Building Blocks Chapter 8: 
-A Modern Day Printing Press? WordPress makes the case for Gutenberg
+# Building Blocks: The Evolution of WordPress
+## Chapter 8 — A Modern Day Printing Press? WordPress makes the case for Gutenberg
 
 
 Gutenberg, now known as the Block Editor, was a major change for WordPress. On the surface, Gutenberg was just a new text editor, but beneath the surface, there is more to the story. 
