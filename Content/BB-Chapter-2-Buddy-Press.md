@@ -1,4 +1,4 @@
-# Building Blocks: The evolution of WordPress
+# Building Blocks: The Evolution of WordPress
 ## Chapter 2: BuddyPress
 
 With 2013 come and gone, the Project entered its 12th year of operation. Thanks to its rich community of contributors from around the world, something was always happening in the world’s most popular CMS, which by 2014 had about 21% share of websites worldwide. 
