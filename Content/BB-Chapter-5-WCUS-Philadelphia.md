@@ -2,7 +2,7 @@
 
 In 2015, the first national WordCamp US took place at the Pennsylvania Convention Center in Philadelphia, Pennsylvania. More than 1,800 WordPress users and makers attended. 
 
-WorfdCamp US was the evolution of the larger scope pioneered by WordCamp San Francisco. 2015 was the first official year of flagship WordCamps as we know them today.
+WordCamp US was the evolution of the larger scope pioneered by WordCamp San Francisco. 2015 was the first official year of flagship WordCamps as we know them today.
 
 By the time WordCamp US took place, there had already been 89 WordCamps in 2015, with more than 21,000 total attendees. Nonetheless, WordCamp US was the largest WordCamp that had ever taken place. 
 
