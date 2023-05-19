@@ -1,5 +1,5 @@
 # Building Blocks: The Evolution of WordPress 
-## Chapter 4: Activating Diversity and Inclusion
+## Chapter 4 — Activating Diversity and Inclusion
 
 ### 2014, A Watershed Year
 
