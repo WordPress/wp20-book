@@ -1,6 +1,7 @@
 # Building Blocks: The Evolution of WordPress 
 ## Chapter 3 — Plugging into Plugins
 
+### The Extensibility of WordPress
 One billion downloads. In 2014, 11 years into its existence, WordPress reached this impressive milestone number of plugin downloads. 
 
 The plugin system is a central distinguishing feature of WordPress, allowing people to have functionality on their websites that would otherwise require thousands of dollars of developer time. Plugins are free pieces of software that add functionality to WordPress websites. Most can be used on any website, with virtually any theme, regardless of the design or content. Most can be downloaded for free and uploaded into the websites. Once activated, they provide special functionality from inserting analytics code to creating special widgets. With plugins, non-technical users could have everything from shopping carts to galleries on their websites, and WordPress began to be much more than a blogging platform.
