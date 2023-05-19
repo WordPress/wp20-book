@@ -84,6 +84,18 @@ As Topher DeRosia [put it](https://www.codeinwp.com/blog/pandemic-vs-wordpress-t
 
 Those skills made it easy for people in the WordPress ecosystem to adapt to Zoom meetings and other collaborative technology. “A lot of good came out of the pandemic,” said Courtney Robertson, a designer on the Training team, on contributors. “We didn’t have the volume, but I saw more teams mixing together.” Cross-team collaboration has continued to increase, with global collaborations and increased integration of different groups within the project.
 
+### Learn WordPress
+
+[Jonathan Bossenger](https://profiles.wordpress.org/psykro/) recalls that “the idea for the current iteration of Learn WordPress was born out of the fact that we couldn’t hold in-person events during the pandemic.” The project had been more or less on hold since 2013, but with the pandemic causing limitations on working together, the community worked with members of the training team to revive the project. 
+
+[Courtney Robertson](https://profiles.wordpress.org/courane01/) became a full time contributor during the pandemic and is still a dedicated WordPress Training Team Faculty Member. She explained that supporting other teams’ training needs was an initial impetus for her work with the training team.
+
+The website at [learn.wordpress.org](https://learn.wordpress.org/) shares tutorials to help people learn best practices for WordPress, lesson plans to help people conduct in-person or virtual training, and courses covering a variety of topics for developers as well as other WordPress users. Many of the lessons are translated into multiple languages.
+
+The Learn WordPress site is lively since the pandemic began to wind down. Projects are presented as ideas, as lessons ready for content creators to work on, and at various stages of progress. The team is working toward certification, and some lessons and courses are required for various community roles, though certification is not at this point possible or required. .
+
+“Learn WordPress has grown,” says Jonathan, “and continues to grow, and empowers users to achieve their goals with WordPress through actionable and practical learning experiences that bring the community together.”
+
 ### Economics
 
 At the same time, businesses that had not been online before the pandemic realized that they needed an online presence. Gyms and yoga studios switched to online classes, restaurants took up online ordering and curbside pickup, and e-commerce soared. 
