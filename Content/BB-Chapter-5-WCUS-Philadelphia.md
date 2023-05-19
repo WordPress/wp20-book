@@ -1,5 +1,5 @@
 # Building Blocks: The Evolution of WordPress 
-## Chapter 5— WordCamp US Philadelphia
+## Chapter 5 — WordCamp US Philadelphia
 
 In 2015, the first national WordCamp US took place at the Pennsylvania Convention Center in Philadelphia, Pennsylvania. More than 1,800 WordPress users and makers attended. 
 
