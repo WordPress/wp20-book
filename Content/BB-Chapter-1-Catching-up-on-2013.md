@@ -1,4 +1,4 @@
-# Building Blocks 
+# Building Blocks: The Evolution of WordPress 
 ## Chapter 1: Catching up on 2013
 
 In 2013, WordPress was ten years old, and a far cry from the small personal project it had been at the beginning of 2003. 
