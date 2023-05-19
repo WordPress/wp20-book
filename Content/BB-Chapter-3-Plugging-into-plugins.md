@@ -1,5 +1,5 @@
 # Building Blocks: The Evolution of WordPress 
-## Chapter 3: Plugging into Plugins
+## Chapter 3 — Plugging into Plugins
 
 One billion downloads. In 2014, 11 years into its existence, WordPress reached this impressive milestone number of plugin downloads. 
 
