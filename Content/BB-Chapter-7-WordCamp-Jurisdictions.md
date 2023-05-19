@@ -1,4 +1,6 @@
-Building Blocks Chapter 7: WordCamp Jurisdictions
+# Building Blocks: The Evolution of WordPress 
+## Chapter 7 — WordCamp Jurisdictions
+
 The first WordCamp Europe took place in Leiden, the Netherlands, in 2013, though it wasn’t until Vienna in 2016 that WordCamp Europe truly became a landmark event. Attendance sored with over 1,950 people attending, coming from 68 different countries. There were also 1,402 Live Streaming tickets representing 82 countries. Contributor Day drew 440 Contributors. This was the largest WordCamp ever at the time.
 
 
