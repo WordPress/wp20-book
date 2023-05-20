@@ -51,5 +51,4 @@ Community, led by Josepha Haden
 Meta, led by Ian Dunn
 Training, led by Beth Soderberg
 
-The next Community Summit would not take place until 2023. WordCamp US became an important annual event.
-
+The next Community Summit would not take place until 2018 and then again in 2023. WordCamp US became an important annual event.
