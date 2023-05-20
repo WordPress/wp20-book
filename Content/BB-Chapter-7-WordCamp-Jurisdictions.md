@@ -1,5 +1,6 @@
 # Building Blocks: The Evolution of WordPress 
 ## Chapter 7 — WordCamp Jurisdictions
+### Local is relative
 
 The first WordCamp Europe took place in Leiden, the Netherlands, in 2013, though it wasn’t until Vienna in 2016 that WordCamp Europe truly became a landmark event. Attendance sored with over 1,950 people attending, coming from 68 different countries. There were also 1,402 Live Streaming tickets representing 82 countries. Contributor Day drew 440 Contributors. This was the largest WordCamp ever at the time.
 
@@ -14,7 +15,8 @@ In 2017, however, the decision was made not to allow WordCamp Netherlands, but t
 
 
 She went on to point out that the growing focus on big, flashy events was setting a bar that made it hard for the small, local events to feel successful, even though the original intent for WordCamps was to support local WordPress communities.
-A controversial ruling
+
+### A controversial ruling
 The Netherlands organizers didn’t just disagree. In fact, the decision was met with fierce opposition. 
 
 
@@ -49,7 +51,8 @@ Arguments on the other side were few and far between, though [Kåre Mulvad Steff
 
 
 Randy Hicks, lead organizer for WordCamp Nashville, spoke in favor of regional camps, but also worried that “they are going to be a huge vacuum sucking up resources.”
-Back to the Netherlands
+
+### Back to the Netherlands
 The organizing committee reported on their experience of the change in 2018. 
 
 
