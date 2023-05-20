@@ -1,5 +1,6 @@
 # Building Blocks: The Evolution of WordPress
 ## Chapter 6 — The Customizer
+### Introducing a new way to publish
 
 The Customizer made its debut as the theme customizer during “Grant Green” or in WordPress 3.4 in June 2012, with features added gradually over the following years. It allowed users to set the title and tagline, adjust colors and fonts, handle some images, and make other design changes without code. It was a groundbreaking and memorable change in the editor.
 
@@ -12,7 +13,8 @@ The Customizer was also intended to give developers a standardized way to presen
 Individual themes added more options to the settings choices in the Customizer, and in 2015 all themes were required to support the Customizer — but the Customizer for each theme continued to be individual. No consistent format was required. Different items were handled in different ways and presented in different places in different themes, leading to some confusion and frustration among users. However, since each theme previously had its own admin pages with no pretense of uniformity, the Customizer could actually be seen as making WordPress design easier for users.
 
 Users didn’t all agree, and developers didn’t all comply. In 2015, when themes were officially required to support the Customizer, only 24% of the themes offered in the Theme Directory actually did. Adoption was lagging. As late as 2017, a survey found that more than half of regular WordPress users never used the Customizer. Would the Customizer ever catch on with the WordPress community?
-RELEASE 4.3
+
+### Release 4.3
 From the beginning, there were designers who felt that the Customizer stifled creativity and users who found it confusing, but in 2015, with the release of 4.3, the controversy surrounding it peaked. In WordPress version 4.3, named for Billie Holiday, menus were added to the Customizer.
 
 In addition to people who had never liked the Customizer and people who didn’t want to see even more things shoehorned into it, there were many who felt that the Customizer should be for styling only. Menus, they said, were content, and content didn’t belong in the theme customizer.
@@ -44,7 +46,9 @@ Two WordPress developers reacted to the menu change by creating a plugin called 
 WordPress 4.3 included a lot of which Konstantin was proud. It shipped on time, and set off a string of on-time releases after years of missed deadlines. 
 
 It provided strong passwords by default, a feature that is still in use today. It made it easy to add a favicon to websites. It fixed and improved myriad small things, and provided an important jumping off point for 4.4, which included the REST API.
-THE FATE OF THE CUSTOMIZER
+
+### The fate of the customizer
+
 The distinction between design and content was one of the strong points of WordPress compared with traditional HTML websites. It was possible to update a website’s design without losing the content, and to update content without affecting the design.
 
 Without a content management system, website owners could not even safely change their phone number or update team member bios without help from tech specialists. WordPress, the world’s most popular content management system, changed that. 
