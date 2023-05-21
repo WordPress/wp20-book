@@ -66,7 +66,7 @@ In 2017, however, at WordCamp Europe in Paris, Matt asked the audience to be che
 The community seemed to be warming up to it. Sessions advocating for Gutenberg became a fixture at WordCamps. A typical cheerleading session was “The Future of WordPress is Gutenberg” at WordCamp US 2018.
 
 
-“WordPress has been around for 15 years. Over 30% of sites use it, and that figure continues to climb. We’re here for the long term, so we need to plan for the long term: Gutenberg has been built as the base for the next 15 years of WordPress,” the description read. “What you see in the block editor is the first practical application of what’s going on underneath: a modern design process, an extensible technical architecture, and a forward-thinking foundation to build our future upon.”
+“WordPress has been around for 15 years. Over 30% of sites use it, and that figure continues to climb. We’re here for the long term, so we need to plan for the long term: Gutenberg has been built as the base for the next 15 years of WordPress,” the description reads. “What you see in the block editor is the first practical application of what’s going on underneath: a modern design process, an extensible technical architecture, and a forward-thinking foundation to build our future upon.”
 
 
 Other Gutenberg-related sessions that year included “Gutenberg, GraphQL and Government: Building Blocks,” “Block Development,” a session on AMP support in Gutenberg blocks, Gutenberg for front-end developers, and use case examples.
