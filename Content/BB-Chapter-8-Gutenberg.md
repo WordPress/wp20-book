@@ -29,7 +29,7 @@ When Gutenberg first made its appearance in 2017, it was a new way to write post
 Gutenberg, he said, was about democratizing publishing “and democratizing work — for everyone, regardless of language, ability, or economic wherewithal.”
 
 
-Gutenberg did that by providing a standard, portable publishing method without proprietary page builders or premium themes that locked users into a walled garden approach to building pages and creating posts. It was intended to open new pathways for plugins, to allow photographers,artists,poets, and musicians to present their creative works in creative ways, and to allow everyone to make their sites look and behave as they had envisioned they would.
+Gutenberg did that by providing a standard, portable publishing method without proprietary page builders or premium themes that locked users into a walled garden approach to building pages and creating posts. It was intended to open new pathways for plugins, to allow photographers, artists, poets, and musicians to present their creative works in creative ways, and to allow everyone to make their sites look and behave as they had envisioned they would.
 
 
 Gutenberg would create a truly WYSIWYG (what you see is what you get) editor and allow greater control over the visual presentation of the website without a need to write code. At the same time, it breaks the work of managing a site into its smallest parts – blocks – and applies that to the whole site.
