@@ -2,7 +2,7 @@
 ## Chapter 7 — WordCamp Jurisdictions
 ### Local is relative
 
-The first WordCamp Europe took place in Leiden, the Netherlands, in 2013, though it wasn’t until Vienna in 2016 that WordCamp Europe truly became a landmark event. Attendance sored with over 1,950 people attending, coming from 68 different countries. There were also 1,402 Live Streaming tickets representing 82 countries. Contributor Day drew 440 Contributors. This was the largest WordCamp ever at the time.
+The first WordCamp Europe took place in Leiden, the Netherlands, in 2013, though it wasn’t until Vienna in 2016 that WordCamp Europe truly became a landmark event. Attendance soared with over 1,950 people attending, coming from 68 different countries. There were also 1,402 Live Streaming tickets representing 82 countries. Contributor Day drew 440 Contributors. This was the largest WordCamp ever at the time.
 
 
 There were 20 organizers, 69 speakers, and 160 volunteers. WordCamp Europe also featured a wapuu coloring book.
@@ -38,7 +38,7 @@ Andrea Middleton had previously written, “One goal for the WordPress Community
 She went on, “Another goal in the WordPress Community program (which dovetails nicely with our goal of having a community in as many cities in the world as possible) is to make WordPress community accessible to as many people as possible, regardless of their financial status or other factors that might limit travel. Having several WordCamps in a certain country every year makes WordCamp more available to more people, even if those folks are not able to travel.”
 
 
-In the ensuing discussion, organizers from countries which had been required to switch from regional to city-based WordCamps brought up concerns:
+In the ensuing discussion, organizers from countries that had been required to switch from regional to city-based WordCamps brought up concerns:
 Small camps were as much effort to organize as large camps, thus making their “bang for the buck” lower. 
 City-level WordCamps would cannibalize organizers, speakers, and attendees from monthly meetup groups.
 Regional WordCamps allow people from small communities to meet new people in ways that city-wide WordCamps don’t.
