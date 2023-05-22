@@ -1,6 +1,6 @@
 # Building Blocks: The Evolution of WordPress 
 ## Chapter 14 — “Parlez-vous WordPress s’il vous plaît?”
-
+### Multilingual efforts over the years
 As the pandemic slowed down, a new awareness of the ways in which the world is interconnected brought increasing concern with the plans for Gutenberg Phase 4: Multilingual Support. 
 
 Multiple languages were not by any means a new phenomenon for WordPress. “WordPress has always been localized,” says Francesca Morano. “Localization of WordPress and the wealth of plugins we have is the big factor in making WordPress so popular.” A look at the history of WordPress shows that localization gathered momentum as time went on. 
@@ -19,7 +19,7 @@ Increasing global connections were reflected in some of the other events around 
 
 In 2020, WordCamp Spain took place online, welcoming Spanish-speaking visitors around the world. “We have consciously given a push to unite both sides of the pond thanks to this common interest: the growth of WordPress in Spanish,” wrote Pablo Moratinos, the organizer of the WordCamp. Matt favors more language-centered WordCamps, too. 
 
-In 2021, a language switcher was added to the login screen in version 5.9. [Erica Varlese](https://profiles.wordpress.org/evarlese/) made a proposal to translate [learn.WordPress.org](http://learn.WordPress.org) and by the end of the year the training site was available in 21 languages. 
+In 2021, a language switcher was added to the login screen in version 5.9. [Erica Varlese](https://profiles.wordpress.org/evarlese/) made a proposal to translate [learn.WordPress.org](http://learn.WordPress.org) and by the end of the year, the training site was available in 21 languages. 
 
 ### The software
 
@@ -38,14 +38,14 @@ WordPress continues to do better in this area as time goes on, but challenges re
 
 ### The content
 
-Content of the websites was under the control of the owners and producers of the websites, but an increasing interest in WordPress support of multilingual sites grew over the years.
+The content of websites was under the control of the owners and producers of the websites, but an increasing interest in WordPress support of multilingual sites grew over the years.
 
 Organizing a multilingual website can be done in several different ways: multisites, all the languages on one site, with or without connections among the different translations, and so forth. These decisions are left up to the site owners and producers. WordPress doesn’t currently offer automatic translations or processes for building multilingual sites, though many plugins do.
 
 “It’s tricky,” says Matias, because there are many different solutions.” Building the collaborative processes in Phase 3 will give greater insights into the needs of multilingual sites and the people who use those websites. “We’re going to see,” says Matias, “the things they wish would exist.”
 
 Jeff Paul mentioned that there are people in the community who would like to see multilingual support (planned as Phase 4) come before collaboration (planned as Phase 3). Matt mentioned that he gets that request often, and Courtney Robertson admitted that she’s one of the people who makes that request. A desire for global diversity is on the rise in the WordPress community.
-However, from a technical point of view, the collaborative tools of phase 3 will provide a foundation for phase 4. The order of the two is not based on importance or urgency, but on the infrastructure required.
+However, from a technical point of view, the collaborative tools of Phase 3 will provide a foundation for Phase 4. The order of the two is not based on importance or urgency, but on the infrastructure required.
 Matt points out that localization of content goes beyond language alone. “You might want to have different imagery, or different testimonials, or endorsement celebrities,” he said. “I’m excited about supporting it.”
 
 ### Localization and internationalization 
