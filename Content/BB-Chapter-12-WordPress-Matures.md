@@ -1,10 +1,10 @@
 # Building Blocks: The Evolution of WordPress 
 ## Chapter 12 — WordPress Matures
 
-2019’s theme for WordPress.org was “Tighten Up.” One step forward was the release of https://wordpress.org/news/2019/02/betty/, led by [Matt Mullenweg](http://ma.tt/) and [Gary Pendergast](https://pento.net/). It improved editor performance, optimized background processes, and helped users update outdated versions of PHP and this suite of improvements proved a boon for the project’s most technical users.
+2019’s theme for WordPress.org was “Tighten Up.” One step forward was the release of https://wordpress.org/news/2019/02/betty/, led by [Matt Mullenweg](http://ma.tt/) and [Gary Pendergast](https://pento.net/). It improved editor performance, optimized background processes, and helped users update outdated versions of PHP, and this suite of improvements proved a boon for the project’s most technical users.
 
 
-5.1 also introduced a number of  Site Health features. The Site Health project provides a dashboard showing technical issues affecting the health of a website, with suggestions for improvement. Some suggestions are straightforward, like “Delete unused plugins,” but many are intended for developers rather than site owners.
+5.1 also introduced several Site Health features. The Site Health project provides a dashboard showing technical issues affecting the health of a website, with suggestions for improvement. Some suggestions are straightforward, like “Delete unused plugins,” but many are intended for developers rather than site owners.
 
 
 The updates specifically relating to PHP included: 
@@ -24,28 +24,28 @@ The third update for 2019 was [5.3, Kirk](https://wordpress.org/news/2019/11/kir
 ![](https://i0.wp.com/themes.svn.wordpress.org/twentytwenty/2.2/screenshot.png?w=1144&strip=all)
 
 ### The importance of PHP updates
-WordPress has the democratization of publishing as a central goal: making it easier for more people to share their content online, regardless of their levels of technical skill and knowledge. Many happy WordPress users could manage their websites with no knowledge even of HTML or CSS, let alone PHP.
+WordPress has the democratization of publishing as a central goal: making it easier for more people to share their content online, regardless of their technical skill and knowledge levels. Many happy WordPress users could manage their websites with no knowledge even of HTML or CSS, let alone PHP.
 
 
 PHP is an open source server-side scripting language that has been used for web development since 1993. Like most computer languages, it gets updated regularly. In the case of PHP, the planned life span is two years from its first stable release. Using old PHP versions is possible, but it has consequences for speed and security.
 
 
-However, WordPress powers nearly half of websites around the world. While the WordPress community has a strong streak of independence, allowing WordPress sites to run on outdated, insecure technology would have far-reaching consequences for the internet as a whole. 
+However, WordPress powers nearly half of the websites around the world. While the WordPress community has a strong streak of independence, allowing WordPress sites to run on outdated, insecure technology would have far-reaching consequences for the internet. 
 
 
-By 2019, the PHP 5 family was already two years past its end of life date. Updates had become essential. While it would have been possible to continue to run websites on outdated versions of PHP — and [statistics](https://w3techs.com/technologies/details/pl-php) show that many still do — the tightening up process focused on getting site owners and hosting companies to make those PHP updates.
+By 2019, the PHP 5 family was already two years past its end-of-life. Updates had become essential. While it would have been possible to continue to run websites on outdated versions of PHP — and [statistics](https://w3techs.com/technologies/details/pl-php) show that many still do — the tightening up process focused on getting site owners and hosting companies to make those PHP updates.
 
 ### The Site Health Project
-The Site Health screen in the WordPress admin area gives users information on the version of PHP their site was running and what needs to be updated, and some other recommendations regarding performance and security.
+The Site Health screen in the WordPress admin area gives users information on the version of PHP their site was running, what needs to be updated, and some other recommendations regarding performance and security.
 
-Users of WordPress with lower levels of tech savvy often remain unaware of the changes. PHP updates can be done automatically through many hosting companies, but not without risks. In fact, a lot of site owners found that their websites broke when they updated their PHP version. Sadly, plain white screens and unrecoverable websites were not an uncommon occurrence at that time. 
+Users of WordPress with lower levels of tech savvy often remain unaware of the changes. PHP updates can be done automatically through many hosting companies, but not without risks. In fact, many site owners found that their websites broke when they updated their PHP version. Sadly, plain white screens and unrecoverable websites were not an uncommon occurrence at that time. 
 
-A widget encouraging users to update had been shown in the dashboards of websites and sites that were kept up to date could benefit from the White Screen of Death Protection feature introduced in 5.1. Unfortunately, the most vulnerable websites were often the same sites that were not kept up to date, and whose users didn’t visit the admin area often enough to see the informative widget. 
+A widget encouraging users to update had been shown in the dashboards of websites, and sites that were kept up to date could benefit from the White Screen of Death Protection feature introduced in 5.1. Unfortunately, the most vulnerable websites were often the same sites that were not kept up to date and whose users didn’t visit the admin area often enough to see the informative widget. 
 
 Often, the source of the problem was the website’s theme or key plugins. Compatibility problems meant that the themes or plugins could not be used until and unless they were updated to be compatible with the new versions of PHP. While this could be a simple matter for a personal blog — just change the theme and replace the plugins! — it could be a big, costly problem for businesses and organizations relying on their websites. Often, trying to fix the site without downtime or major design changes was the goal, and the Site Health screen was an important tool.
 
 
-The Site Health Project gave users tips like “Your PHP version should be updated” and “One or more recommended modules are missing.” Unfortunately, many site owners simply had no idea what these instructions meant, or how they could fix these problems. 
+The Site Health Project gave users tips like “Your PHP version should be updated” and “One or more recommended modules are missing.” Unfortunately, many site owners simply had no idea what these instructions meant or how they could fix these problems. 
 
 
 While there are explanations on the site health screen, they often are couched in terms that many site owners do not understand. For example, here is the explanation for “Not all recommended security headers are installed” from one website:
@@ -70,7 +70,7 @@ Just as medical patients now have access to radiology reports written for medica
 
 ### Responsibility
 
-There have been many conversations in the WordPress community on the general question of who should be responsible for WordPress websites. Should there be automatic updates of themes or plugins initiated by the core software? Should WordPress be disabled on an abandoned website, and if so, who gets to decide what constitutes an abandoned website? 
+There have been many conversations in the WordPress community on the question of who should be responsible for WordPress websites. Should there be automatic updates of themes or plugins initiated by the core software? Should WordPress be disabled on an abandoned website, and if so, who gets to decide what constitutes an abandoned website? 
 
 
 [Aaron Campbell](https://profiles.wordpress.org/aaroncampbell/) pointed out that any decision-making on site ownership and control issues by [WordPress.org](https://wordpress.org/) would end up being decision-making for a large number of people by a small number of people. “Right and wrong,” he said, “is left up to the marketplace.”
@@ -94,7 +94,7 @@ Agencies and freelance site builders might have a continuing relationship with t
 Many designers do not offer continuing services for the websites they design. Site owners may not even have contact information for the people who built their websites. 
 
 
-Office staff, who may be users of a website without being owners, may not have any design or development training. They may have limited access, and may not even be administrators on a website, even if they are the primary user of the admin area.
+Office staff, who may be users of a website without being owners, may not have any design or development training. They may have limited access and may not even be administrators on a website, even if they are the primary user of the admin area.
 
 
 While it is possible to imagine further steps that could have been taken to limit the disruption, it is by no means clear who should or could have taken those steps.
