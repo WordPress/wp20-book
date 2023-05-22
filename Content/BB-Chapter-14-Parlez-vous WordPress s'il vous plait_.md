@@ -45,7 +45,9 @@ Organizing a multilingual website can be done in several different ways: multisi
 “It’s tricky,” says Matias, because there are many different solutions.” Building the collaborative processes in Phase 3 will give greater insights into the needs of multilingual sites and the people who use those websites. “We’re going to see,” says Matias, “the things they wish would exist.”
 
 Jeff Paul mentioned that there are people in the community who would like to see multilingual support (planned as Phase 4) come before collaboration (planned as Phase 3). Matt mentioned that he gets that request often, and Courtney Robertson admitted that she’s one of the people who makes that request. A desire for global diversity is on the rise in the WordPress community.
-However, from a technical point of view, the collaborative tools of Phase 3 will provide a foundation for Phase 4. The order of the two is not based on importance or urgency, but on the infrastructure required.
+
+However, from a technical point of view, the collaborative tools of Phase 3 will provide a foundation for Phase 4. The order of the two is not based on importance or urgency but on the infrastructure required.
+
 Matt points out that localization of content goes beyond language alone. “You might want to have different imagery, or different testimonials, or endorsement celebrities,” he said. “I’m excited about supporting it.”
 
 ### Localization and internationalization 
@@ -56,7 +58,7 @@ Internationalization is the process of making a website available to localizatio
 
 Both localization and internationalization are essential for a global web solution. 
 
-The Polyglot team is composed of volunteer contributors working to translate WordPress into their native languages. Languages are further divided by locales: French as it is spoken in Belgium is separate from French as it is spoken in France. 
+The Polyglot team is composed of volunteer contributors working to translate WordPress into their native languages. Languages are further divided by locales: French, as it is spoken in Belgium, is separate from French as it is spoken in France. 
 
 Currently, 208 locales are at some stage of preparation. Contributors range from one for Icelandic to 3,959 for French (France). “It’s amazing WordPress is available in so many languages,” Yvette Sonneveld points out, considering that all the translation is done by volunteers. 
 
