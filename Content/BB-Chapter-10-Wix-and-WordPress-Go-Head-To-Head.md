@@ -1,5 +1,6 @@
 # Building Blocks: The Evolution of WordPress 
 ## Chapter 10 — Wix and WordPress Go Head to Head
+### Integrity and open source
 
 WordPress generally has friendly relations with competing tech firms. An exception is Wix. The conflict between Wix and WordPress began in 2016 when Matt Mullenweg called Wix out for using GPL-licensed code in a proprietary app without crediting WordPress or releasing their derivative app under GPL.
 
