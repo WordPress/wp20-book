@@ -36,11 +36,11 @@ Attempts to hold the event in 2021 were also canceled, and the first WordCamp As
 
 WordCamp San Antonio was the first virtual WordCamp, taking place March 28-29, 2020. Many more followed, including WordCamp Europe, another flagship event, in Portugal. WordCamp US was canceled, but there were 31 [WordCamps](https://central.wordcamp.org/about/) in 2020, mostly virtual.
 
-Meetups went virtual in many communities, but continued to be an important part of the organization. 745 meetup groups in the WordPress chapter program met, for a total of more than [4,900 meetups](https://make.wordpress.org/community/2021-wordpress-global-community-sponsorship-program/). 
+Meetups went virtual in many communities but continued to be an important part of the organization. 745 meetup groups in the WordPress chapter program met, for a total of more than [4,900 meetups](https://make.wordpress.org/community/2021-wordpress-global-community-sponsorship-program/). 
 
 For some participants, these virtual meetups were important sources of human contact. One developer who lived alone and worked remotely shared at a Meetup that he had not seen another person in two weeks.
 
-Contributors were affected too. [The Corporation for National and Community Service](https://americorps.gov) (AmeriCorps) found that one third of Americans volunteered regularly before the pandemic, and that there was a 60% drop in these rates after the pandemic began. Community organizer [Cami Kaos](https://profiles.wordpress.org/camikaos/) saw similar patterns among WordPress contributors. 
+Contributors were affected too. [The Corporation for National and Community Service](https://americorps.gov) (AmeriCorps) found that one-third of Americans volunteered regularly before the pandemic and that there was a 60% drop in these rates after the pandemic began. Community organizer [Cami Kaos](https://profiles.wordpress.org/camikaos/) saw similar patterns among WordPress contributors. 
 
 “About a month in there is just this utter and complete fatigue where we realize this is no longer a fun novelty thing that we’re doing,” [she told MasterWP](https://masterwp.com/presstheissue/how-did-the-pandemic-affect-wordpress-contributors/). “This is our world now. We can’t go and see our friends, we can’t do in-person events. Now, rather than being excited that we can do these fun new event types, we’re upset because we can’t do the at-there event types.” 
 
@@ -52,7 +52,7 @@ She found that community members felt frustrated. They began to ask things like,
 
 Grief, fear, loneliness, and general uncertainty about the future caused people’s priorities to change. “So many contributors to WordPress do it for fun,” Matt pointed out. “Other things took precedence.”
 
-Josepha noted that the lack of in-person events affected contributor recruitment significantly. “One of the things that we were not able to account for in the potential disaster recovery plan was contributor recruitment and acknowledgement,” she said. “It’s not the same as being with them at a Contributor Day and saying, ’I really love that thing you did!’ There’s nothing that can really take the place of that. Recruiting people to use WordPress or  learn WordPress or to learn how to contribute to WordPress is really hard to do online.”
+Josepha noted that the lack of in-person events affected contributor recruitment significantly. “One of the things that we were not able to account for in the potential disaster recovery plan was contributor recruitment and acknowledgment,” she said. “It’s not the same as being with them at a Contributor Day and saying, ’I really love that thing you did!’ There’s nothing that can really take the place of that. Recruiting people to use WordPress or  learn WordPress or to learn how to contribute to WordPress is really hard to do online.”
 
 The lack of in-person WordCamp and Meetup experiences resulted in fewer contributors and fewer opportunities for recruitment and development. However, the decision to end in-person events was taken early and continued for a long time. 
 
@@ -102,7 +102,7 @@ At the same time, businesses that had not been online before the pandemic realiz
 
 For businesses to cope with the changes the Pandemic thrust upon them, an online presence became essential. It was unavoidable even for those that had avoided digital platforms before the pandemic. For businesses that were thinking about getting online or had just dipped their toes in the virtual water, the pandemic often motivated action that had been easy to put off before. WordPress, with its versatility, robust technology, and user-friendliness, was an excellent choice for small businesses seeking to expand—or create—their online presence.
 
-For WordPress it was a boom, one where [market share](https://w3techs.com/technologies/history_overview/content_management/all/y) rose more than it ever had in the years before the pandemic.
+For WordPress, it was a boom, one where [market share](https://w3techs.com/technologies/history_overview/content_management/all/y) rose more than it ever had in the years before the pandemic.
 
 A wave of pandemic entrepreneurs started [4.4 million](https://www.salesforce.com/blog/small-business-pandemic-entrepreneurs/) businesses in 2020—a record. 70% of those businesses were all-digital. WordPress was the foundation for a large segment of those businesses. 
 
@@ -112,7 +112,7 @@ One example was contributor Paul Biron. He built a website for COVAX, an interna
 
 Across the board, people in the WordPress economy had more options than those working in fields like hospitality or manufacturing. 
 
-People with Disabilities/Comorbidities
+### People with Disabilities/Comorbidities
 
 The pandemic led to widespread illness and more than [350,000 deaths](https://www.cdc.gov/nchs/pressroom/podcasts/2022/20220107/20220107.htm) in 2020 alone. At the same time, it brought other health issues to the fore. Some people were more vulnerable than others to COVID-19. Older people, people with chronic diseases, smokers, the obese — these people were more likely to catch COVID-19 and more likely to have severe cases of the disease. They and their families needed to avoid contagion, even more than the general populace. 
 
@@ -133,7 +133,7 @@ In addition to providing the tools and community support, as well as creating op
 [WP&Up](https://wordpress.com/discover-wordpress/category/mental-health/), which rebranded itself during the pandemic as A Big Orange Heart, offered specific support for remote workers during the pandemic. The [University of Innsbruck](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.853371/full) in Austria used WordPress to set up an emergency online mental health program during their lockdown. The Harlem Family Institute used WordPress to publish [My Pandemic Story](http://www.childrenspsychologicalhealthcenter.org/wp-content/uploads/2021/03/MyPandemicStory2021_Sample.pdf), a guided workbook supporting kids’ mental health.
 
 ### Community Support
-Even in the absence of serious mental health concerns, WordPress helped some people with the general disquiet the pandemic brought. Francesca Marano remembers being lead release coordinator for version 5.4 in 2020. “It was surreal in Italy,” she says. “We were all in lockdown, I was interacting only with my son…Having 5.4 to launch helped us to get through.”
+Even in the absence of serious mental health concerns, WordPress helped some people with the general disquiet the pandemic brought. Francesca Marano remembers being the lead release coordinator for version 5.4 in 2020. “It was surreal in Italy,” she says. “We were all in lockdown, I was interacting only with my son…Having 5.4 to launch helped us to get through.”
 
 The welcoming community and robust yet friendly software made WordPress an important source of support for pandemic-era health needs.
 
