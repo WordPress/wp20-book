@@ -77,7 +77,7 @@ The free rider metaphor works for resources that don’t get used up, as Josepha
 
 Commenters suggested including funding tools in WordPress and combining all the smaller contributors into a single identity…but also asked for an end to “disparaging” free riders and compassion for those organizations that couldn't “overcome the obstacles” to contribution. 
 
-### Acknowledgement
+### Acknowledgment
 WordPress established the Five for the Future project in 2014. In 2018, Andrea Middleton wrote a proposal for a Five for the Future acknowledgment page. The idea was to acknowledge companies that supported the effort and to motivate more companies to join. 
 
 Contributions have more than quadrupled in that time. WordPress.org has a Pledges page that shows numerous organizations that have pledged, from a handful of organizations pledging one hour each week to Automattic’s 4,069 hours a week.
