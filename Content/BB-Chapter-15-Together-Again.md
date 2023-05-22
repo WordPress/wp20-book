@@ -70,7 +70,7 @@ The releases of 2022 created a completely new way to use WordPress, bringing Pha
 
 Openverse began as a project of Creative Commons, called “CC Search.” In 2021, it was rebranded as part of the WordPress project. WordPress called their new family member “Openverse.” As an open source image and sound file search engine, it moved toward the project-wide goal of providing open source alternatives for all site-building necessities.
 
-By the end of 2022, Openverse added 22 million images and 1.5 million audio files. In the 30 days prior to the 2022 State of the Word address it had fielded an impressive 50 million requests.. By April 2023 it was home to more than 700 million files, all free for use by anyone.
+By the end of 2022, Openverse added 22 million images and 1.5 million audio files. In the 30 days prior to the 2022 State of the Word address it had fielded an impressive 50 million requests. By April 2023 it was home to more than 700 million files, all free for use by anyone.
 
 ![](https://make.wordpress.org/marketing/files/2023/04/Openverse-700-million.png)
 
