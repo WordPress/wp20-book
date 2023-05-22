@@ -26,7 +26,7 @@ With in-person gatherings on the rise and virtual gatherings as a continuing opt
 
 Josepha expressed the WordPress community’s devotion not only to WordPress itself, but to open source as a principle. “Not only is open source an idea that can change our generation by being an antidote to proprietary systems and the data economy,” she said in a [recent podcast](https://wordpress.org/news/2023/01/episode-47-letter-from-the-executive-director/), “but open source methodologies represent a process that can change the way we approach our work and our businesses.”
 
-Discussions about open source often acknowledge the fact that financial viability of open source software requires millions of users to benefit from the deep engagement and expertise of a small number of people, a sentiment reflected recently in [Forbes](https://www.forbes.com/sites/adrianbridgwater/2023/02/06/the-future-for-open-source/?sh=1a33d92e4b4f). 
+Discussions about open source often acknowledge the fact that the financial viability of open source software requires millions of users to benefit from the deep engagement and expertise of a small number of people, a sentiment reflected recently in [Forbes](https://www.forbes.com/sites/adrianbridgwater/2023/02/06/the-future-for-open-source/?sh=1a33d92e4b4f). 
 
 Building the WordPress community continues to be an essential part of supporting open source, but keeping the WordPress economy healthy is also a requirement. Without that practical piece, open source would be weakened.
 
