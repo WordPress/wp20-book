@@ -4,7 +4,7 @@
 ## Chapter 16 — The Future of WordPress
 
 
-With phases 1 and 2 of the Gutenberg project complete, WordPress used its learnings as it prepares for what lies ahead - phases 3 and 4.
+With Phases 1 and 2 of the Gutenberg project complete, WordPress used its learnings as it prepares for what lies ahead - Phases 3 and 4.
 
 ![](https://make.wordpress.org/marketing/files/2023/04/Phases-of-Gutenberg-1.png)
 
