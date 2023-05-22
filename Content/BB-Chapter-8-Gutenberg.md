@@ -2,25 +2,25 @@
 
 ## Chapter 8 — A Modern Day Printing Press? 
 
-### WordPress makes the case for Gutenberg
+### WordPress makes a case for Gutenberg
 
 
-Gutenberg, now known as the Block Editor, was a major change for WordPress. On the surface, Gutenberg was just a new text editor, but beneath the surface, there is more to the story. 
+Gutenberg, now known as the Block Editor, was a major change for WordPress. On the surface, Gutenberg was just a new text editor, but there is more to the story beneath the surface. 
 
 
-For some time, as people began to access the web with their phones and other devices, web content producers talked about the need to change the way content was presented. Instead of thinking of a page and trying to make it work on a smaller screen, it made sense to think of content as blocks that could be arranged in different ways to work on different kinds of screens and devices and for different purposes. 
+For some time, as people began accessing the web with their phones and other devices, web content producers talked about the need to change how content was presented. Instead of thinking of a page and trying to make it work on a smaller screen, it made sense to think of content as blocks that could be arranged in different ways to work on different kinds of screens and devices for different purposes. 
 
 
 The new Gutenberg editor did exactly that. 
 
 
-Just as some users were frustrated when the Customizer added menus, bringing content into a design tool, some users were alarmed when Gutenberg brought layout and thus design into the text editor. 
+Just as some users were frustrated when the Customizer added menus, bringing content into a design tool, some users were alarmed when Gutenberg brought layout and, thus, design into the text editor. 
 
 
-Eventually, the long-term goal was to make it possible to do full site editing in a single interface. That goal is on the horizon. 
+Eventually, the long-term goal was to make it possible to do site editing in a single interface. That goal is on the horizon. 
 
 
-When Gutenberg first made its appearance in 2017, it was a new way to write posts and pages. Matt had introduced the idea of a visual editor in his State of the Word address in 2016, and the Gutenberg plugin was soon the result. 
+When Gutenberg first made its appearance in 2017, it was a new way to write posts and pages. Matt introduced the idea of a visual editor in his State of the Word address in 2016, and the Gutenberg plugin was soon the result. 
 
 
 “We called it Gutenberg for a reason,” [he wrote](https://ma.tt/2017/08/we-called-it-gutenberg-for-a-reason/) in August 2017. “Movable type was about books, but it wasn’t just about books. Ideas spread. Literacy spiked. The elite monopoly on education started to crack…WordPress has always been about websites, but it’s not just about websites. It’s about freedom, about possibility, and about carving out your own livelihood.”
@@ -29,7 +29,7 @@ When Gutenberg first made its appearance in 2017, it was a new way to write post
 Gutenberg, he said, was about democratizing publishing “and democratizing work — for everyone, regardless of language, ability, or economic wherewithal.”
 
 
-Gutenberg did that by providing a standard, portable publishing method without proprietary page builders or premium themes that locked users into a walled garden approach to building pages and creating posts. It was intended to open new pathways for plugins, to allow photographers, artists, poets, and musicians to present their creative works in creative ways, and to allow everyone to make their sites look and behave as they had envisioned they would.
+Gutenberg did that by providing a standard, portable publishing method without proprietary page builders or premium themes that locked users into a walled-garden approach to building pages and creating posts. It was intended to open new pathways for plugins, allow photographers, artists, poets, and musicians to present their creative works creatively, and allow everyone to make their sites look and behave as they had envisioned.
 
 
 Gutenberg would create a truly WYSIWYG (what you see is what you get) editor and allow greater control over the visual presentation of the website without a need to write code. At the same time, it breaks the work of managing a site into its smallest parts – blocks – and applies that to the whole site.
@@ -41,7 +41,7 @@ Nothing with that scope can be expected to come about without resistance, and th
 Many users saw Gutenberg as a market-driven reaction to Wix and Squarespace. Some of those who knew and loved WordPress in its classic form resented having their experience disrupted for the sake — they were convinced — of competing for new users. And at first, it appeared to make few allies.
 
 
-Writers found it slow. Each paragraph had to be written in a new block and all the pointing and clicking interfered with the flow of ideas. For writers who thought of the words as their domain and relied on designers to make the pages look good, Gutenberg provided no clear benefits to make up for the obstacles. 
+Writers found it slow. Each paragraph had to be written in a new block, and all the pointing and clicking interfered with the flow of ideas. For writers who thought of the words as their domain and relied on designers to make the pages look good, Gutenberg provided no clear benefits to compensate for the obstacles. 
 
 
 Designers felt they had less control than they were used to. At the same time, they worried that Gutenberg would make WordPress into a fully DIY platform and put them out of a job. 
@@ -53,11 +53,11 @@ Developers worried that all their products would have to be rebuilt to fit in wi
 Site owners found that the WordPress skills they had learned no longer allowed them to accomplish the tasks they needed to control. Staff who had been able to make updates reliably might not be able to do so anymore, and plugins they had paid to have installed and configured suddenly had compatibility issues. 
 
 
-And the truth remained: most people who were not designers couldn’t actually build a beautiful page with Gutenberg. It had a steep learning curve that required considerable skill and rewarded those who tenaciously exercised their creative abilities.
+And the truth remained: most people who were not designers couldn’t build a beautiful page with Gutenberg. It had a steep learning curve that required considerable skill and rewarded those who tenaciously exercised their creative abilities.
 
 ## Disruption
 
-When Gutenberg became the default editor, core contributors created the Classic Editor plugin as a transitional onramp to the use of the block editor. Initially, the plan was to sunset that plugin on December 31, 2021, having given everyone enough time to get used to the new editor. That didn’t happen. In fact, the block editor now offers an experience like the classic editor as one of its blocks.
+When Gutenberg became the default editor, core contributors created the Classic Editor plugin as a transitional onramp to using the block editor. Initially, the plan was to sunset that plugin on December 31, 2021, having given everyone enough time to get used to the new editor. That didn’t happen. In fact, the block editor now offers an experience like the classic editor as one of its blocks.
 
 
 In 2017, however, at WordCamp Europe in Paris, Matt asked the audience to be cheerleaders for Gutenberg, to go home and encourage its use in their meetups and local WordCamps.
@@ -75,7 +75,7 @@ Other Gutenberg-related sessions that year included “Gutenberg, GraphQL and Go
 “Since Gutenberg is still a work in progress, this presentation is not intended as the absolute truth,” one session description confessed. 
 
 
-There was excitement, and there was continued resistance. Josepha said, “I spent six months going to the angriest communities and listening.” Some discussions focused on the feeling that WordPress users — or particular segments of the user community — weren’t being listened to. Others suggested that people who refused to use Gutenberg were hidebound and not open to change, never an easy thing to hear. Still, others didn’t center on Gutenberg as an editor at all but complained that the process of change had not seemed collaborative enough. 
+There was excitement, and there was continued resistance. Josepha said, “I spent six months going to the angriest communities and listening.” Some discussions focused on the feeling that WordPress users — or particular segments of the user community — weren’t being listened to. Others suggested that people who refused to use Gutenberg were hidebound and not open to change, which is never an easy thing to hear. Still, others didn’t center on Gutenberg as an editor at all but complained that the change process had not seemed collaborative enough. 
 
 
 “How can you bring something that disruptive without being that disruptive?” asked Matias Ventura, the lead architect of Gutenberg. In a blog post, he compared Gutenberg to the ship of Theseus, which had to be completely rebuilt while it was still sailing. “How can such a vision happen without dismantling, rebuilding, fragmenting, or breaking the WordPress ship that for over a decade has been carrying the thoughts, joys, and livelihoods of millions of people and more than a quarter of the web?” That was the Gutenberg experience.
@@ -90,7 +90,7 @@ For example, the earliest iterations of the Gutenberg plugin were designed so th
 Many plugins didn’t work on pages built in Gutenberg, but plugin designers hurried to update their offerings, so most problems were also solved fairly quickly. 
 
 
-Tools were in different places than users expected, sometimes in multiple places, and sometimes they were hard to find. They moved many times during the process of improving Gutenberg. This ended up being one of the most common pain points. But again, users who stuck with Gutenberg through the growing pains found that in the long run, their concerns were addressed. 
+Tools were in different places than users expected, sometimes in multiple places, and sometimes hard to find. They moved many times during the process of improving Gutenberg. This ended up being one of the most common pain points. But again, users who stuck with Gutenberg through the growing pains found that, in the long run, their concerns were addressed. 
 
 
 “There was not immediate agreement on what constituted a breaking change,” Josepha observed. “Breaking workflow can be as much of a problem as breaking a web page.”
