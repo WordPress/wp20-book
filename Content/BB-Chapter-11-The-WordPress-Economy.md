@@ -1,17 +1,17 @@
 # Building Blocks: The Evolution of WordPress 
 ## Chapter 11 — The WordPress Economy
 
-In 2018, WordPress hit 32% market share. By 2019, WordPress powered 43% of the web, according to Kinsta, so somewhere in that year WordPress zoomed past one-third of the web on its way to nearly half of all the CMS-based websites in the universe. 
+In 2018, WordPress hit 32% market share. By 2019, WordPress powered 43% of the web, according to Kinsta, so somewhere in that year, WordPress zoomed past one-third of the web on its way to nearly half of all the CMS-based websites in the universe. 
 
-By comparison, among key competitors in this space, Joomla was at 3.1% in 2018 and 2.9% in 2019. Drupal went from 2.2% to 1.9%.
+Among key competitors in this space, Joomla was at 3.1% in 2018 and 2.9% in 2019. Drupal went from 2.2% to 1.9%.
 
-Wix and Squarespace both grew their market share in those years, but by 2019 they hit just 1.1% and 1.5% respectively. 
+Wix and Squarespace both grew their market share in those years, but by 2019 they hit just 1.1% and 1.5%, respectively. 
 
 WordPress had clearly become the most popular website platform, and its market share has only grown since then. 
 
 
 ### Economic Effects
-In terms of Economics, what does this popularity mean? As WordPress sought to democratize publishing, making it easier than ever before to build highly functional websites, it opened doors to the online economy for millions of people. Barriers to entry fell for e-commerce, monetized blogging, lead generation, and brand awareness websites, as well as many more creative opportunities.
+In terms of Economics, what does this popularity mean? As WordPress sought to democratize publishing, making it easier than ever before to build highly functional websites, it opened doors to the online economy for millions of people. Barriers to entry fell for e-commerce, monetized blogging, lead generation, brand awareness websites, and many more creative opportunities.
 
 
 In 2018 and 2019, traditional hand-coded websites were still in the majority, but by 2021 WordPress surpassed them. In 2018-2019, as is still true now, the use of WordPress dwarfed the use of all other content management systems combined. According to WPEngine’s Study of the WordPress Economy, the WordPress-enabled economy reached $596.7 billion early in 2021.
@@ -27,28 +27,28 @@ In a podcast, Josepha listed five groups of people in the WordPress ecosystem:
 * Contributors to WordPress
 * Leaders of WordPress
 
-Agencies, web hosts (which Matt identifies as the group that benefits the most financially from WordPress), infrastructure suppliers, and more must also be included in the WordPress economy.
+Agencies, web hosts (which Matt identifies as the group that benefits the most financially from WordPress), infrastructure suppliers, are also included in the WordPress economy.
 
 Each member of these groups plays an essential role in the ecosystem as well as the economy.
 
 ### WordPress Heroes
 
 
-[Topher DeRosia](https://profiles.wordpress.org/topher1kenobe/) of [HeroPress](https://heropress.com/) curates stories at  about people who have entered the WordPress economy and improved their lives. Sometimes they have made the world a better place as well. These WordPress heroes are part of the people economy of WordPress – the human beings who use WordPress for their livelihoods. 
+[Topher DeRosia](https://profiles.wordpress.org/topher1kenobe/) of [HeroPress](https://heropress.com/) curates stories about people who have entered the WordPress economy and improved their lives. Sometimes they have made the world a better place as well. These WordPress heroes are part of the people economy of WordPress – the human beings who use WordPress for their livelihoods. 
 
 From all over the world, people have shared their inspiring stories. [Nigel Rodgers](https://heropress.com/contributors/nigel-rodgers/) of Zimbabwe tells how WordPress community involvement made him a global citizen. [Devin Maeztri](https://heropress.com/contributors/devin-maeztri/) of Indonesia tells how she found a place in the community without being a developer. [Marieke van de Rakt](https://heropress.com/contributors/marieke-van-de-rakt/) of the Netherlands wrote about finding her place in a welcoming community. [Gobinda Tarafdar](https://heropress.com/contributors/gobinda-tarafdar/) from Bangladesh enlarged her life experience by making friends worldwide.
 
-But many of the essays center on something like this line from [Michelle Schulp](https://heropress.com/essays/transformed-by-wordpress/) of Minnesota: “WordPress has changed my career. It has helped me achieve financial and personal independence.” 
+Many of the essays center on a sentiment similiar to this line from [Michelle Schulp](https://heropress.com/essays/transformed-by-wordpress/) of Minnesota: “WordPress has changed my career. It has helped me achieve financial and personal independence.” 
 
 
-Often, they go on to say that they are women, older people, people with parenting responsibilities that limited their options, people with disabilities, or people who are marginalized in their cultures — in short, they were conscious of obstacles to their economic progress and fulfillment. 
+Often, they elaborate that they are women, older people, people with parenting responsibilities that limited their options, people with disabilities, or people who are marginalized in their cultures — in short, they were conscious of obstacles to their economic progress and fulfillment. 
 
 WordPress changed that reality for them. Many essays speak of how “WordPress transformed my life.”
 
-These and countless similar stories combined with the statistics prove that WordPress has made a remarkable impact on the global economy. 
+These and countless similar stories combined with the statistics prove that WordPress has remarkably impacted the global economy. 
 
 ### Giving: Five for the Future
-Josepha Haden Chomphosy gave a [lecture on the WordPress](https://wordpress.org/news/2021/10/episode-18-the-economics-of-wordpress/) economy in an economics class at Hendrix College. She mentioned the size of the WordPress economy in dollars, but she also took a different approach. As an open source project with many volunteer contributors, WordPress is very different from other big tech projects. 
+Josepha Haden Chomphosy gave a [lecture on the WordPress](https://wordpress.org/news/2021/10/episode-18-the-economics-of-wordpress/) economy in an economics class at Hendrix College. She mentioned the size of the WordPress economy in dollars, but she also took a different approach. As an open source project with many volunteer contributors, WordPress is unlike other big tech projects. 
 
 WordPress users in a survey estimated that, on average, 25% to 48% of their incomes were directly attributable to WordPress. WordPress.org doesn’t charge for the use of the software or of any other tools or resources. It is possible to use WordPress as the basis of a business without giving anything at all to WordPress. 
 
@@ -57,7 +57,7 @@ But WordPress asks for a 5% give-back contribution in the [Five for the Future](
 Josepha brought up the concept of “free riders.”
 
 ### "Free Riders"
-There’s a theory in the field of economics about those who don’t contribute but reap the rewards. It’s called the [“free rider” problem](https://en.wikipedia.org/wiki/Free-rider_problem). The metaphor comes from people riding a bus without buying a ticket. As long as plenty of people buy tickets, a few people can ride for free without any consequences: the supply of seats is adequate and their choice to pay or not to pay has no effect on the schedule of the bus. 
+There’s an economic about those who don’t contribute but reap the rewards. It’s called the [“free rider” problem](https://en.wikipedia.org/wiki/Free-rider_problem). The metaphor comes from people riding a bus without buying a ticket. As long as plenty of people buy tickets, a few can ride for free without any consequences: the supply of seats is adequate and their choice to pay or not to pay has no effect on the bus schedule. 
 
 Economics theory tells us, though, that there is a tipping point. If there are too many free riders, the system breaks down. 
 
@@ -75,7 +75,7 @@ The free rider metaphor works for resources that don’t get used up, as Josepha
 
 “How can we rebalance the tenacious need for contribution with the immense benefit WordPress brings to everyone, including our free riders and contributors?” she asked. 
 
-Commenters suggested including funding tools in WordPress and combining all the smaller contributors into a single identity…but also asked for an end to “disparaging” free riders and compassion for those organizations that couldn't “overcome the obstacles” to contribution. 
+Commenters suggested including funding tools in WordPress and combining all the smaller contributors into a single identity, but also asked for an end to “disparaging” free riders and compassion for those organizations that couldn't “overcome the obstacles” to contribution. 
 
 ### Acknowledgment
 WordPress established the Five for the Future project in 2014. In 2018, Andrea Middleton wrote a proposal for a Five for the Future acknowledgment page. The idea was to acknowledge companies that supported the effort and to motivate more companies to join. 
@@ -93,6 +93,6 @@ This section of the website also points out the benefits of contributing:
 
 There has been some controversy around the program, including questions about whether core contributions and ecosystem contributions are equally important, whether it’s right to acknowledge companies or if it amounts to “toxic score-keeping,” and whether activities like building WordPress websites count as 5ftF contributions (officially, no).
 
-Contributors can add their contributions to their profiles and a special web page for the project was added in 2019. In 2022, Josepha spoke of “a culture of generosity” and proposed a set of questions to guide future acknowledgment of contributions. 
+Contributors can add their contributions to their profiles, and a special web page for the project was added in 2019. In 2022, Josepha spoke of “a culture of generosity” and proposed a set of questions to guide future acknowledgment of contributions. 
 
 The program continues to evolve and develop, and the contributions of volunteers continue to be central to the WordPress economy. The most recent contributor days brought skyrocketing numbers: 800 in Porto for WordCamp Europe 2022 and more than 630 in Bangkok for WordCamp Asia 2023.
