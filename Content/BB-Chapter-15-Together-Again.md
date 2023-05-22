@@ -1,5 +1,6 @@
 # Building Blocks: The Evolution of WordPress 
 ## Chapter 15 — Together Again
+### Meeting in person
 
 What was the most exciting thing to happen in 2022? Without hesitation, Yvette Sonneveld answered that question, “Getting to hang out in person.”
 
