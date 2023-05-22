@@ -24,7 +24,7 @@ The third update for 2019 was [5.3, Kirk](https://wordpress.org/news/2019/11/kir
 ![](https://i0.wp.com/themes.svn.wordpress.org/twentytwenty/2.2/screenshot.png?w=1144&strip=all)
 
 ### The importance of PHP updates
-WordPress has democratization of publishing as a central goal: making it easier for more people to share their content online, regardless of their levels of technical skill and knowledge. Many happy WordPress users could manage their websites with no knowledge even of HTML or CSS, let alone PHP.
+WordPress has the democratization of publishing as a central goal: making it easier for more people to share their content online, regardless of their levels of technical skill and knowledge. Many happy WordPress users could manage their websites with no knowledge even of HTML or CSS, let alone PHP.
 
 
 PHP is an open source server-side scripting language that has been used for web development since 1993. Like most computer languages, it gets updated regularly. In the case of PHP, the planned life span is two years from its first stable release. Using old PHP versions is possible, but it has consequences for speed and security.
@@ -73,7 +73,7 @@ Just as medical patients now have access to radiology reports written for medica
 There have been many conversations in the WordPress community on the general question of who should be responsible for WordPress websites. Should there be automatic updates of themes or plugins initiated by the core software? Should WordPress be disabled on an abandoned website, and if so, who gets to decide what constitutes an abandoned website? 
 
 
-[Aaron Campbell](https://profiles.wordpress.org/aaroncampbell/) pointed out that any decision making on site ownership and control issues by [WordPress.org](https://wordpress.org/) would end up being decision making for a large number of people by a small number of people. “Right and wrong,” he said, “is left up to the marketplace.”
+[Aaron Campbell](https://profiles.wordpress.org/aaroncampbell/) pointed out that any decision-making on site ownership and control issues by [WordPress.org](https://wordpress.org/) would end up being decision-making for a large number of people by a small number of people. “Right and wrong,” he said, “is left up to the marketplace.”
 
 
 On the other hand, the need to update PHP versions is based on security and the health of the internet as a whole. The tightening up in 2019 versions of WordPress aimed at encouraging those updates without forcing them. 
@@ -82,13 +82,13 @@ On the other hand, the need to update PHP versions is based on security and the 
 But that was along a continuum from WordPress.org responsibility to individual site owner responsibility. As always, that continuum had a lot more stops along the way. 
 
 
-Hosting companies stopped supporting old versions of PHP, forcing updates. However, they didn’t always alert site owners that their websites might break—or even that they had broken. Hands-off site owners might not realize that their websites were no longer functional until they began to affect the bottom line for their business or organization, which was when they were in crisis mode. 
+Hosting companies stopped supporting old versions of PHP, forcing updates. However, they didn’t always alert site owners that their websites might break—or even that they had broken. Hands-off site owners might not realize that their websites were no longer functional until they began to affect the bottom line of their business or organization, which was when they were in crisis mode. 
 
 
 One example is the experience of Operation Sail, or [OpSail](https://opsail.org/), a nonprofit established in 1961 by President Kennedy and supported by the U.S. Congress and the British royal family. Their website broke. Months later, as the organization prepared  for an event, they discovered that their website was offline. Neither their hosting company nor the agency that originally built the site was able to solve the problem, and OpSail had to start over.
 
 
-Agencies and freelance site builders might have a continuing relationship with the site owners, but in many cases they had only built the site. Without being hired to serve as webmasters, they often did not feel a responsibility to keep these websites functional. 
+Agencies and freelance site builders might have a continuing relationship with the site owners, but in many cases, they had only built the site. Without being hired to serve as webmasters, they often did not feel a responsibility to keep these websites functional. 
 
 
 Many designers do not offer continuing services for the websites they design. Site owners may not even have contact information for the people who built their websites. 
