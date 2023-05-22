@@ -48,7 +48,7 @@ WordPress changed that reality for them. Many essays speak of how “WordPress t
 These and countless similar stories combined with the statistics prove that WordPress has remarkably impacted the global economy. 
 
 ### Giving: Five for the Future
-Josepha Haden Chomphosy gave a [lecture on the WordPress](https://wordpress.org/news/2021/10/episode-18-the-economics-of-wordpress/) economy in an economics class at Hendrix College. She mentioned the size of the WordPress economy in dollars, but she also took a different approach. As an open source project with many volunteer contributors, WordPress is unlike other big tech projects. 
+Josepha Haden Chomphosy gave a [lecture on the WordPress](https://wordpress.org/news/2021/10/episode-18-the-economics-of-wordpress/) economy in an economics class at Hendrix College. She mentioned the size of the WordPress economy in dollars, but she also took a different approach. As an open source Project with many volunteer contributors, WordPress is unlike other big tech projects. 
 
 WordPress users in a survey estimated that, on average, 25% to 48% of their incomes were directly attributable to WordPress. WordPress.org doesn’t charge for the use of the software or of any other tools or resources. It is possible to use WordPress as the basis of a business without giving anything at all to WordPress. 
 
@@ -67,7 +67,7 @@ That’s no problem as long as enough people pay for their tickets. The free rid
 
 This is the conundrum with free riders. 
 
-There were many responses to the idea that WordPress could face a free rider problem. A small proportion of the users of WordPress contribute to the project. WordPress relies heavily on those contributions.
+There were many responses to the idea that WordPress could face a free rider problem. A small proportion of the users of WordPress contribute to the Project. WordPress relies heavily on those contributions.
 
 The conversation about free riders quickly began to sound like a conversation about freeloaders – a completely different situation. 
 
