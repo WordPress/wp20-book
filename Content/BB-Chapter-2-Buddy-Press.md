@@ -4,7 +4,7 @@
 
 With 2013 come and gone, the Project entered its 12th year of operation. Thanks to its rich community of worldwide contributors, something was always happening in the world’s most popular CMS, which by 2014 had about 21% share of websites worldwide. 
 
-BuddyPress began in 2007. Developers include John James Jacoby, Paul Gibbs, Boone Georges, and Andy Peatling. The goal of the plugin is to create specialized social networks. 
+[BuddyPress](https://buddypress.org/) began in 2007. Developers include John James Jacoby, Paul Gibbs, Boone Georges, and Andy Peatling. The goal of the plugin is to create specialized social networks. 
 
 At the time, Matt had said, “Someday, perhaps, the world will have a truly Free and Open Source alternative to the walled gardens and open-only-in-API platforms that currently dominate our social landscape.” BuddyPress was the solution, an open source sister project for WordPress. 
 
