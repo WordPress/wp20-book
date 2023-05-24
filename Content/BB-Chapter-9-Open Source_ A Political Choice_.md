@@ -1,6 +1,6 @@
 # Building Blocks: The Evolution of WordPress 
 ## Chapter 9 — Open Source: A Political Choice?
-### Governments using Open Source
+### Governments Using Open Source
 
 American presidents from across the political spectrum have used WordPress for their official websites. There is nothing partisan about the software; instead, its popularity with the presidents of this century shows its power and influence on the web. 
 
@@ -45,7 +45,7 @@ Biden’s [WhiteHouse.gov](http://whitehouse.gov) focused on accessibility. It i
 [Andrew Nacin](https://profiles.wordpress.org/nacin/) oversaw the WhiteHouse.gov effort for Biden’s administration, and the new site was completed in six weeks, launching on inauguration day.
 
 
-### Not just U.S. presidents
+### Not Just U.S. presidents
 While the use of WordPress by three presidents of the United States in a row (so far) indicates the platform’s importance, it is not only the presidents who use WordPress in government. 
 
 The State Department’s official website, State.gov, is a WordPress website. USA.gov, and the new beta site at beta.usa.gov, are WordPress websites. 
@@ -56,7 +56,7 @@ State and city governments also use WordPress widely. The popularity of WordPres
 
 WordPress also has the avowed mission of democratizing publishing. Does this make WordPress an obvious candidate for applications that support democracy?
 
-### WordPress politics
+### WordPress Politics
 In 2018, when Obama, Trump, and Biden all had WordPress websites (JoeBiden.com redirected to AmericanPossibilities.org), WordPress reached an important milestone: powering one-third of the global web. In turn, it made sense that powerful and important websites were being built on WordPress, regardless of the political leanings of the content.
 
 
