@@ -10,7 +10,7 @@ WordPress site users could choose from 26,252 plugins. Eighty new themes were ap
 
 The WordPress [official tally](https://wordpress.com/blog/2014/01/06/2013-review/) for 2013 was impressive. By the end of the year, 13,704,819 new WordPress blogs were created in 2013 alone. 489,281,136 new posts had been published. 667,675,929 comments had been posted — an average of 21 comments in each second of 2013. Posts had received 95,424,985 Likes. 
 
-[image](https://github.com/WordPress/wp20-book/assets/90657387/f641732f-6d09-4565-9325-8a3d463750c4)
+![image](https://github.com/WordPress/wp20-book/assets/90657387/f641732f-6d09-4565-9325-8a3d463750c4)
 
 
 The goal of WordPress was then, as it is today, the democratization of publishing. Ten years into the Project, building a website and publishing it online, thanks to the WordPress platform, was easier than ever. People could connect with  other enthusiasts of any interest; however small the group of enthusiasts might be. Everyone could find fellowship anywhere in the world. The world had never experienced this degree of connection, digital or otherwise, before.
