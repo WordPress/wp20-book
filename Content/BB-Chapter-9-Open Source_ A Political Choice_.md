@@ -19,7 +19,7 @@ We can see the evolution of WordPress as a trusted platform for official governm
 ### Barack Obama
 In 2017, President Obama chose WordPress for his Obama Foundation website. He was the first U.S. President to use WordPress. 
 
-![Snapshot of the Obama Foundation Homepage Spring 2023]([https://make.wordpress.org/marketing/files/2023/04/Obama-Foundation-Homepage.png](https://make.wordpress.org/marketing/files/2023/04/Obama-Foundation-Homepage.png))
+![image](https://wordpress.org/book/files/2023/05/Obama-Foundation-Homepage-2048x1121.png)
 
 It’s worth noting that Obama’s WhiteHouse.gov site was the first iteration to use an open source CMS, albeit Drupal, in 2009.
 
@@ -29,7 +29,7 @@ The decision in 2009 was recognized as a sign of change. The choice of WordPress
 ### Donald J. Trump
 Later in 2017, the White House switched from Drupal to WordPress for whitehouse.gov. The White House [announced](https://www.washingtonexaminer.com/white-house-website-redesigned-to-save-taxpayers-3-million-per-year) that the new site looked cleaner and more presidential than the previous version. It included no interactive elements. 
 
-![image](https://make.wordpress.org/marketing/files/2023/04/Trump-White-House-Website.png)
+![image](https://wordpress.org/book/files/2023/05/Trump-White-House-Website-2048x1035.png)
 
 The [Washington Examiner reported](https://www.washingtonexaminer.com/white-house-website-redesigned-to-save-taxpayers-3-million-per-year) that the new website would be much cheaper to maintain, cutting the previous website’s maintenance and security costs in half from $6 million per year. This was given as the explanation of the platform shift, based on the word of a “White House spokesperson.”
 
