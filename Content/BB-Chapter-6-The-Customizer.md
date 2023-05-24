@@ -2,7 +2,7 @@
 ## Chapter 6 — The Customizer
 ### Introducing a new way to publish
 
-The Customizer debuted as the theme customizer during “Grant Green” or WordPress 3.4 in June 2012, with features added gradually over the following years. It allowed users to set the title and tagline, adjust colors and fonts, handle some images, and make other design changes without code. It was a groundbreaking and memorable change in the editor.
+The Customizer debuted as the theme customizer during “[Green](https://wordpress.org/news/2012/06/green/)” or WordPress 3.4 named for Grant Green in June 2012, with features added gradually over the following years. It allowed users to set the title and tagline, adjust colors and fonts, handle some images, and make other design changes without code. It was a groundbreaking and memorable change in the editor.
 
 The magic of the Customizer takes place in a narrow left-hand sidebar that can be seen simultaneously as the webpages rather than from the backend admin view. The Customizer allows users to see what their changes will look like before publishing them, which removed the need to switch back and forth from the editor to the preview and lessened the chances of publishing and then having to rush to undo an effect that didn’t look as expected.
 
@@ -14,16 +14,19 @@ Individual themes added more options to the settings choices in the Customizer, 
 
 Users didn’t all agree, and developers didn’t all comply. In 2015, when themes were officially required to support the Customizer, only 24% of the themes offered in the Theme Directory did. Adoption was lagging and as late as 2017, a survey found that more than half of regular WordPress users never used the Customizer. Would the Customizer ever catch on with the WordPress community?
 
-### Release 4.3
-From the beginning, there were designers who felt that the Customizer stifled creativity and users who found it confusing, but in 2015, with the release of 4.3, the controversy surrounding it peaked. In WordPress version 4.3, named for Billie Holiday, menus were added to the Customizer.
+### "Billie" stirs controversy
+From the beginning, there were designers who felt that the Customizer stifled creativity and users who found it confusing, but in 2015, with the [release of 4.3](https://wordpress.org/news/2015/08/billie/), the controversy surrounding it peaked. In WordPress version 4.3, named for Billie Holiday, menus were added to the Customizer.
 
 In addition to people who had never liked the Customizer and people who didn’t want to see even more things shoehorned into it, many felt that the Customizer should be for styling only. Menus, they said, were content, and content didn’t belong in the theme customizer.
 
-Konstantin Obenland, a 4.3 release lead, shared some of the reactions he heard at the time:
-“The Customizer is very unpleasant to work with.”
-“It’s crazy pants.”
-“I think it’s a horrible user experience and the more options that are added to it, the worse it gets.”
-“Content management doesn’t belong in the theme Customizer,” one commenter pronounced in the WordPress forum. 
+![image](https://i1.wp.com/s.w.org/images/core/4.3/menu-customizer.png)
+
+[Konstantin Obenland](https://profiles.wordpress.org/obenland/), a 4.3 release lead, shared some of the reactions he heard at the time:
+
+>“The Customizer is very unpleasant to work with.”
+>“It’s crazy pants.”
+>“I think it’s a horrible user experience and the more options that are added to it, the worse it gets.”
+>“Content management doesn’t belong in the theme Customizer,” one commenter pronounced in the WordPress forum. 
 
 “I haven’t seen anyone outside of the decision makers who thinks this is a good idea,” said another. This viewpoint—that the developers were making choices contrary to the will and best interests of the users—became a recurring motif in the discussions.
 
