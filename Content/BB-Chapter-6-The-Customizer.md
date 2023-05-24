@@ -2,7 +2,7 @@
 ## Chapter 6 — The Customizer
 ### Introducing a new way to publish
 
-The Customizer debuted as the theme customizer during “[Green](https://wordpress.org/news/2012/06/green/)” or WordPress 3.4 named for Grant Green in June 2012, with features added gradually over the following years. It allowed users to set the title and tagline, adjust colors and fonts, handle some images, and make other design changes without code. It was a groundbreaking and memorable change in the editor.
+The Customizer debuted as the theme customizer during “[Green](https://wordpress.org/news/2012/06/green/)” or WordPress 3.4 named after Grant Green in June 2012, with features added gradually over the following years. It allowed users to set the title and tagline, adjust colors and fonts, handle some images, and make other design changes without code. It was a groundbreaking and memorable change in the editor.
 
 The magic of the Customizer takes place in a narrow left-hand sidebar that can be seen simultaneously as the webpages rather than from the backend admin view. The Customizer allows users to see what their changes will look like before publishing them, which removed the need to switch back and forth from the editor to the preview and lessened the chances of publishing and then having to rush to undo an effect that didn’t look as expected.
 
@@ -50,17 +50,17 @@ WordPress 4.3 included a lot of which Konstantin was proud. It shipped on time a
 
 It provided strong passwords by default, a feature still in use today. It made it easy to add a favicon to websites. It fixed and improved myriad small things and provided an important jumping-off point for 4.4, which included the REST API.
 
-### The fate of the customizer
+### The Fate of the Customizer
 
 The distinction between design and content was one of the strong points of WordPress compared with traditional HTML websites. It was possible to update a website’s design without losing the content and to update content without affecting the design.
 
-Without a content management system, website owners could not safely change their phone number or update team member bios without help from tech specialists. WordPress, the world’s most popular content management system, changed that. 
+Without a content management system, website owners could not safely change their phone numbers or update team member bios without help from tech specialists. WordPress, the world’s most popular content management system, changed that. 
 
 The Customizer can now be used in some themes to update content as well as design. Some themes are designed to allow full site editing with the block editor through the Customizer. This was one of the primary objections to adding the menu function to the Customizer with Release 4.3.
 
 Objections didn’t end there. “Whether you like the WordPress Customizer or not, it’s not going anywhere (unfortunately),” wrote developer Anthony Hortin in 2017, following up on an earlier description of the Customizer saying, “I think the Customizer in its current form is a horrible interface, and certainly not one that should be made as ‘standard’.” 
 
-The Customizer began with the goal of standardization but has become even less standardized over time. Block themes intended for full site editing don’t require or support the Customizer, and instead are customized in the Site Editor. The Customizer won’t even show up for websites with block themes, unless a plugin requires it. 
+The Customizer began with the goal of standardization but has become even less standardized over time. Block themes intended for full site editing don’t require or support the Customizer and instead are customized in the Site Editor. The Customizer won’t even show up for websites with block themes unless a plugin requires it. 
 
 Universal themes allow the use of both the Customizer and the Site Editor. The Customizer can also be reached through a direct link on any WordPress website—if you know how.
 
