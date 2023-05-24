@@ -19,7 +19,7 @@ We can see the evolution of WordPress as a trusted platform for official governm
 ### Barack Obama
 In 2017, President Obama chose WordPress for his Obama Foundation website. He was the first U.S. President to use WordPress. 
 
-![image](https://make.wordpress.org/marketing/files/2023/04/Obama-Foundation-Homepage.png)
+![Snapshot of the Obama Foundation Homepage Spring 2023](https://make.wordpress.org/marketing/files/2023/04/Obama-Foundation-Homepage.png)
 
 It’s worth noting that Obama’s WhiteHouse.gov site was the first iteration to use an open source CMS, albeit Drupal, in 2009.
 
