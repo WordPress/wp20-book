@@ -8,7 +8,7 @@ The plugin system is a central distinguishing feature of WordPress, allowing peo
 
 At the same time, plugins allowed WordPress developers to keep WordPress core to a practical size and level of complexity without limiting creativity. Instead of shoehorning every great feature into the core functionality, they could add myriad plugins to satisfy a wide range of needs and wants.
 
-The plugin repository launched in 2005 as a place to host and work on code. Users could browse an alphabetical list of plugins but could not search. With no agreed-upon system for naming plugins, it was impossible to predict what a particular plugin or type of plugin might be named. The repository quickly grew unwieldy.
+The plugin repository was launched in 2005 as a place to host and work on code. Users could browse an alphabetical list of plugins but could not search. With no agreed-upon system for naming plugins, it was impossible to predict what a particular plugin or type of plugin might be named. The repository quickly grew unwieldy.
 
 The plugin directory, a place for users to find the plugins they needed, was launched in 2007. The directory finally made it possible to search for a specific plugin or type.
 
@@ -29,7 +29,7 @@ The advantages were obvious, but plugin developers balked.
 
 In 2009, a core plugins project was launched…and died.
 
-“There’s a lot of potential with having a more curated list of plugins,” core team member Aaron Campbell suggests. He thought of the often-referenced distinction between the cathedral and the bazaar. Getting everyone to collaborate on one magnificent contact form may seem like a better idea than having the fragmented focus of dozens of similar plugins. 
+“There’s a lot of potential with having a more curated list of plugins,” core team member [Aaron Campbell](https://profiles.wordpress.org/aaroncampbell/) suggests. He thought of the often-referenced distinction between the cathedral and the bazaar. Getting everyone to collaborate on one magnificent contact form may seem like a better idea than having the fragmented focus of dozens of similar plugins. 
 
 But there are benefits to the fragmentation, too. “There’s a wide array of users with different needs,” he points out. Each new idea for a contact form may work best in a slightly different setting. “They all have their markets.”
 
