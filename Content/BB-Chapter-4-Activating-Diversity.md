@@ -15,8 +15,7 @@ The team put their heads together to address how to increase diversity within th
 
 Gender was one of the first areas of focus. In 2012, [Jen Mylo](https://profiles.wordpress.org/jenmylo/) found that, on average, women presented just 19% of WordCamp sessions. In 2013, the number rose to a mere 21%. In both years, some WordCamps had exactly 0 female speakers.
 
-Jen shared this information in a 2014 blog post and received some responses dismissing her concern. A typical example is this one from Sarah Gooding:
-“I don’t find these numbers to be sad or disappointing in the slightest and sincerely hope that we will not be pressuring organizers to make diversity more of a focus.” 
+Jen shared this information in a 2014 blog post and received some responses dismissing her concern. A typical example is this one from Sarah Gooding: “I don’t find these numbers to be sad or disappointing in the slightest and sincerely hope that we will not be pressuring organizers to make diversity more of a focus.” 
 
 This concern that diversity would supplant merit in decision-making, is a common yet misplaced worry at the start of conversations about diversity, and many community members brought it up.
 
@@ -30,7 +29,10 @@ Jill had seen at her hometown WordCamp in Vancouver that women were underreprese
 
 People who speak at WordCamps, she said, benefit directly from that. “They get jobs, they get asked to do more speaking, they get positions of leadership.” What’s more, the addition of more perspectives brings greater innovation. As people see their identities on the stage, they feel more comfortable speaking and taking on leadership positions; it's a virtuous circle. 
 
-“There are societal reasons why this happens and I can’t fix all of them, but there’s one thing I can do.” Jill elbaorates that when people lack confidence about speaking and they feel underrepresented they feel disempowered. The workshop helped women – and then all varieties of underrepresented speakers – feel emboldened enough to apply to speak. WordCamp Vancouver had 50% female speakers the following year. 
+“There are societal reasons why this happens and I can’t fix all of them, but there’s one thing I can do.” Jill elbaorates that when people lack confidence about speaking and they feel underrepresented they feel disempowered. 
+
+The workshop helped women – and then all varieties of underrepresented speakers – feel emboldened enough to apply to speak. WordCamp Vancouver had 50% female speakers the following year. 
+
 Jill shares the story of [Ebonie Butler](https://profiles.wordpress.org/metalandcoffee/), an alumna of the Diverse Speaker Training, who was accepted to speak at WordCamp U.S. in 2022. Her message, “Be your authentic self,” is one of the important messages of Diverse Speaker Training. 
 
 “Diversity in WordPress is one of the things that will ensure the long-term health and growth of the project,” Jill says. 
@@ -50,7 +52,7 @@ Aurooba Ahmed, Allie Nimmons, and David Wolfpaw were involved in creating the wo
 
 As ethnic diversity became part of the effort, there were also some results in this area. BlackPress, a community for Black WordPressers, was developed by alumni of the Diverse Speaker program. 
 
-Some WordCamps worked on increasing ethnic diversity, usually by inviting speakers or organizers from diverse communities. Angela Jin of the Community team led a panel discussion on the issue in 2020. She also opened an online discussion in 2022. The same issues continued to arise, and the focus continued to be on events. “Saying that ‘everyone is welcome’ is not enough towards creating diverse events,” she wrote. “Being intentional and consistent, and creating welcoming spaces, builds much needed trust towards inclusion in an event and its broader community.”
+Some WordCamps worked on increasing ethnic diversity, usually by inviting speakers or organizers from diverse communities. [Angela Jin](https://profiles.wordpress.org/angelasjin/) of the Community team led a panel discussion on the issue in 2020. She also opened an online discussion in 2022. The same issues continued to arise, and the focus continued to be on events. “Saying that ‘everyone is welcome’ is not enough towards creating diverse events,” she wrote. “Being intentional and consistent, and creating welcoming spaces, builds much needed trust towards inclusion in an event and its broader community.”
 
 There was a hope that getting a more varied group of people onto the stage would foster more diverse audiences and naturally lead to less homogenous groups. Still, like so much of the tech community, WordPress continues to see limited levels of participation from historically underrepresented voices.
 
@@ -60,7 +62,7 @@ While ethnic diversity has not always been a strong focus for the WordPress comm
 
 [Courtney Robertson](https://profiles.wordpress.org/courane01/) of the Training team is another contributor who revels in the international diversity of her team. “DEI work has been fundamental to work happening in the Training team,” she says. With more than 800 members, the Training team has been able to translate lessons at the Learn site into 21 languages, including Japanese, Brazilian Portuguese, Indonesian, and Hindi. The Training team includes active contributors from over a dozen nations – two dozen counting periodic contributors.
 
-“The community was always diverse, as it’s a global project, said Allie Nimmons. “The problem is that the voices of those at the top - whether that be the people who run our product companies, the people on podcasts, the people leading Make Teams - are not always reflective of that diversity. I do think that this is changing, slowly but surely, thanks to community efforts and projects and conversations. So yes, the community leaders are more diverse than they used to be, but still not diverse enough to truly reflect all the appropriate voices and perspectives.”
+“The community was always diverse, as it’s a global project, said [Allie Nimmons](https://profiles.wordpress.org/alliennimmons/). “The problem is that the voices of those at the top - whether that be the people who run our product companies, the people on podcasts, the people leading Make Teams - are not always reflective of that diversity. I do think that this is changing, slowly but surely, thanks to community efforts and projects and conversations. So yes, the community leaders are more diverse than they used to be, but still not diverse enough to truly reflect all the appropriate voices and perspectives.”
 
 Jill pointed out that diversity can have different meanings in different cultures. Skin color is often a primary focus in the U.S., but in other nations, the lines may be drawn on the basis of national heritage, religion, social standing, native language, or many more factors. 
 
@@ -69,17 +71,18 @@ Jill pointed out that diversity can have different meanings in different culture
 Jen Mylo wrote, in September 2014, “We’ve been talking about diversity — more diverse organizing teams, more diverse speaker rosters, more diverse contributor groups — and most everyone wants to help us grow in that area. Where we fall down is people not knowing how to get there.”
 
 Over the course of the next few years, WordPress kept talking the talk but also began walking the walk, taking greater action toward a more diverse community. 
+
 “It was part of a broader movement in technology,” Andrea points out, “People didn’t realize that part of their responsibility in organizing events was creating space for people not like them. It took a while for us to cement that in the greater zeitgeist of the WordPress community, and it took a while for the people who didn’t really want to do that to figure out whether they wanted to do it anyway or change their level of involvement in WordPress.”
 
 What was the source of pushback?
 
 “There was a lot of implied or learned helplessness involved,” Andrea recalled. Communities would say, “It’s not our fault if people in our communities aren’t diverse. It’s not our fault if women don’t apply.”
 
-Often the problem was, Andrea said, “very homogenous groups of friends in Meetups…We didn’t want to take a white knight attitude and fix things for people, but to pull more diverse leadership into the group.”
+Often the problem was, Andrea said, “very homogenous groups of friends in Meetups… We didn’t want to take a white knight attitude and fix things for people, but to pull more diverse leadership into the group.”
 
 “I was raised as a Quaker,” Andrea says. “What gets me out of bed in the morning is the prospect of making the world a better place.” Andrea, Jen, and other pioneers were prepared to make the effort and they saw change. 
 
-WordPress began to support organizations like Hack the Hood, Black Girls Code, and Girl Develop It with funds and leadership. Hack the Hood and Black Girls Code each received a $15,000 grant from the WordPress Foundation in 2017.
+WordPress began to support organizations like [Hack the Hood](https://www.hackthehood.org/), [Black Girls Code](https://wearebgc.org/), and [Girl Develop It](https://girldevelopit.com/) with funds and leadership. Hack the Hood and Black Girls Code each received a $15,000 grant from the WordPress Foundation in 2017.
 
 The Training team prepared curricula for Hack the Hood events during these years, including a themes workshop. At the same time, Josepha Haden Chomphosy worked with schools in low-income neighborhoods in Kansas City and San Francisco, presenting WordPress 101 courses for underrepresented populations. In addition to extending the commitment to diversity, the goal was to use WordPress to bridge the digital divide within schools. 
 
