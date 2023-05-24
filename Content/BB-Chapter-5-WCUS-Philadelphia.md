@@ -3,7 +3,7 @@
 
 ### Flagship events
 
-In 2015, the first national WordCamp U.S. took place at the Pennsylvania Convention Center in Philadelphia, Pennsylvania. More than 1,800 WordPress users and makers attended. 
+In 2015, the [first national WordCamp U.S.](https://us.wordcamp.org/2015/) took place at the Pennsylvania Convention Center in Philadelphia, Pennsylvania. More than 1,800 WordPress users and makers attended. 
 
 ![image](https://i0.wp.com/2015.us.wordcamp.org/files/2015/09/logo1.png?w=640&ssl=1)
 
