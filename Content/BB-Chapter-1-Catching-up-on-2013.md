@@ -32,7 +32,7 @@ The impressive statistics about WordPress were just a reflection of the power of
 ![](https://i0.wp.com/themes.svn.wordpress.org/twentythirteen/3.8/screenshot.png?w=572&strip=all)
 
 
-The WordPress 3.6 release was due in August of 2013 with Revamped Revisions. The Twenty Thirteen theme added a touch of color and a controversial one-column layout to the annual themes update. By 3.8, autoupdates for minor releases were added to core. 3.8 also brought a new user interface, which was first released as a plugin named MP6, allowing it to reap all the benefits of proper community vetting and feedback before its merge into core.
+The WordPress 3.6 release was due in August of 2013 with Revamped Revisions. The Twenty Thirteen theme added a touch of color and a controversial one-column layout to the annual themes update. By 3.8, auto updates for minor releases were added to core. 3.8 also brought a new user interface, which was first released as a plugin named MP6, allowing it to reap all the benefits of proper community vetting and feedback before its merge into core.
 
 [Matías Ventura](https://profiles.wordpress.org/matveb/), the lead architect of Gutenberg, recalls that the 2013 version releases tried to build a new user interface around post formats: identifying posts as quotes, videos, standard posts, images, etc. Other content management systems had done this. The experiment wasn’t successful, so the team decided to “embrace the flexibility of WordPress.” Looking back, this was one of the steps along the way to Gutenberg.
 
