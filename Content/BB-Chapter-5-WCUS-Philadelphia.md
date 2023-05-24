@@ -5,6 +5,8 @@
 
 In 2015, the first national WordCamp U.S. took place at the Pennsylvania Convention Center in Philadelphia, Pennsylvania. More than 1,800 WordPress users and makers attended. 
 
+![image](https://i0.wp.com/2015.us.wordcamp.org/files/2015/09/logo1.png?w=640&ssl=1)
+
 WordCamp US was the evolution of the larger scope pioneered by WordCamp San Francisco. 2015 was the first official year of flagship WordCamps as we know them today.
 
 By the time WordCamp US took place, there had already been 89 WordCamps in 2015, with more than 21,000 total attendees. Nonetheless, WordCamp US was the largest WordCamp that had ever taken place. 
@@ -24,7 +26,6 @@ The REST API is the foundation for the block editor. It was available as a plugi
 ## Calypso
 
 It was also the basis of Calypso, the open source project allowing users to manage WordPress.com and Jetpack-enabled self-hosted WordPress websites using a desktop interface.
-
 
 Calypso is a new interface for managing multiple WordPress sites written in JavaScript rather than PhP. Matt described it as the interface he would have built for WordPress in the first place if he had known then what he knew in 2015. While it’s often called “the new WordPress,” it is optional for WordPress.org (self-hosted) websites.
 
