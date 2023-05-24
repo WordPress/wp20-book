@@ -14,7 +14,7 @@ BuddyPress was initially available only for multisite WordPress sites, but this 
 
 In 2010, BuddyPress placed third in [Packt](https://en.wikipedia.org/wiki/Packt)'s Most Promising Open Source Project Awards. 2012 saw the first BuddyCamp, and 2013 saw the first U.S. BuddyCamp. 2013 was also the date of a major survey on BuddyPress which found that nearly half the respondents had websites in languages other than English.
 
-In 2014, John James Jacoby (JJJ) raised over $50,000 in an Indiegogo campaign to support his full-time work on BuddyPress, bbPress, and GlotPress. 
+In 2014, [John James Jacoby (JJJ)](https://profiles.wordpress.org/johnjamesjacoby/) raised over $50,000 in an Indiegogo campaign to support his full-time work on BuddyPress, bbPress, and GlotPress. 
 
 ### How it began
 
