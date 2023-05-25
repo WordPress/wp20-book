@@ -58,7 +58,7 @@ The lack of in-person WordCamp and Meetup experiences resulted in fewer contribu
 
 “People did not all agree with that decision,” said Josepha. “ Some said this was us trying to exert too much influence into that space or that people should be able to just make their own decisions and take their own personal risks.”
 
-Mark Maunder wrote at [Wordfence](https://www.wordfence.com/blog/2020/03/covid-19-and-wordpress-community-engagement-in-2020/) in March 2020,
+Mark Maunder wrote at [Wordfence](https://www.wordfence.com/blog/2020/03/covid-19-and-wordpress-community-engagement-in-2020/) in March 2020:
 
 > Thus far, I’ve seen most of the arguments for attending events or traveling centered around how deadly COVID-19 is, or how likely an individual is to die from infection. While this may be based in fact, this is an individualistic view and does not take the global community into account. Instead, are we considering whether we are facilitating transmission or helping contain the outbreak? That should be the moral arithmetic, not whether it will inconvenience or kill you personally.
  
@@ -114,9 +114,9 @@ Across the board, people in the WordPress economy had more options than those wo
 
 ### People with Disabilities/Comorbidities
 
-The pandemic led to widespread illness and over than [350,000 deaths]in the U.S.(https://www.cdc.gov/nchs/pressroom/podcasts/2022/20220107/20220107.htm) in 2020 alone. At the same time, it brought other health issues to the fore. Some people were more vulnerable than others to COVID-19. Older people, people with chronic diseases, smokers, the obese — these people were more likely to catch COVID-19 and more likely to have severe cases of the disease. They and their families needed to avoid contagion even more than the general populace. 
+The pandemic led to widespread illness and over [350,000 deaths in the U.S.](https://www.cdc.gov/nchs/pressroom/podcasts/2022/20220107/20220107.htm) in 2020 alone. At the same time, it brought other health issues to the fore. Some people were more vulnerable than others to COVID-19. Older people, people with chronic diseases, smokers, the obese — these people were more likely to catch COVID-19 and more likely to have severe cases of the disease. They and their families needed to avoid contagion even more than the general populace. 
 
-Remote work allowed some people in these positions to continue working safely, and also introduced greater flexibility and a better work/life balance. 
+Remote work allowed some people in these positions to continue working safely and also introduced greater flexibility and a better work/life balance. 
 
 Mental health became a focus globally as rates of depression and anxiety [spiked](https://www.cdc.gov/mmwr/volumes/70/wr/mm7040e3.htm). The [World Health Organization reported](https://www.who.int/news/item/02-03-2022-covid-19-pandemic-triggers-25-increase-in-prevalence-of-anxiety-and-depression-worldwide) a 25% increase worldwide for 2020.
 
