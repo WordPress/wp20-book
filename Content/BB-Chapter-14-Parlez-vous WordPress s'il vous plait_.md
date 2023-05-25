@@ -13,7 +13,7 @@ In 2014, version 4.0 included the capacity to install WordPress in a variety of 
 
 In 2015’s State of the Word presentation, Matt announced that all plugins and themes would support language packs. The plugin and theme directories were localized and became available in more languages that year. In 2016, WordPress added the language switching feature for users on a WordPress site. Users could choose their site’s admin language from a drop-down menu. 2017’s 4.7.2 release brought in numerous additional language packs. More continued (and continue) to be added in nearly every release. Plugins and themes continued to be required for complete translation, but the changes to the software were speeding up.
 
-All these steps forward centered on translating the interface of the software. Pascal Birchler, a core contributor, wrote in 2019, “WordPress is still a platform that does not offer us a comfortable and unique solution to have a multi-language website. We have several plugins that solve many of the problems we are encountering, but it’ll be a while until WordPress becomes a fully multilingual platform.” This comment reflected the growing desire for a platform that supported multilingual content as well as providing multilingual access to the tools.
+All these steps forward centered on translating the interface of the software. Pascal Birchler, a core contributor, wrote in 2019, “WordPress is still a platform that does not offer us a comfortable and unique solution to have a multi-language website. We have several plugins that solve many of the problems we are encountering, but it’ll be a while until WordPress becomes a fully multilingual platform.” This comment reflected the growing desire for a platform that supported multilingual content as well as provided multilingual access to the tools.
 
 Increasing global connections were reflected in some other WordPress events around this time. 
 
@@ -72,7 +72,7 @@ So could artificial intelligence take the place of human translators?
 
 Matt expects that browsers will continue to improve automatic translations to the point where they can do a lot of the heavy lifting. But he also recognizes that AI is a tool to augment human creativity, not to replace it. 
 
-Polyglots like Francesca question whether there will ever be satisfying AI solutions for translation. So many local details go into the localization of any page, automation can’t be aware of all of them. “My heart is a lot more into people,” she says. “I make sure the context makes sense to Italians.”
+Polyglots like Francesca question whether there will ever be satisfying AI solutions for translation. So many local details go into the localization of any page, and automation can’t be aware of all of them. “My heart is a lot more into people,” she says. “I make sure the context makes sense to Italians.”
 
 AI has improved in translation to an impressive degree, and people have also become more tolerant of machine translations. Matias suggests that newer generations of users might have a different attitude to automatic translation. “There’s some outdated mental modeling” of AI translations, he says. “We’re coming from a time when that wasn’t ubiquitous and we know the limitations, we know that it’s rough, we know we’re going to get the best experience in the original language.” 
 
