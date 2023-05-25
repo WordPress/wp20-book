@@ -27,7 +27,7 @@ In a podcast, Josepha listed five groups of people in the WordPress ecosystem:
 * Contributors to WordPress
 * Leaders of WordPress
 
-Agencies, web hosts (which Matt identifies as the group that benefits the most financially from WordPress), infrastructure suppliers, are also included in the WordPress economy.
+Agencies, web hosts (which Matt identifies as the group that benefits the most financially from WordPress), and infrastructure suppliers, are also included in the WordPress economy.
 
 Each member of these groups plays an essential role in the ecosystem as well as the economy.
 
@@ -38,7 +38,7 @@ Each member of these groups plays an essential role in the ecosystem as well as 
 
 From all over the world, people have shared their inspiring stories. [Nigel Rodgers](https://heropress.com/contributors/nigel-rodgers/) of Zimbabwe tells how WordPress community involvement made him a global citizen. [Devin Maeztri](https://heropress.com/contributors/devin-maeztri/) of Indonesia tells how she found a place in the community without being a developer. [Marieke van de Rakt](https://heropress.com/contributors/marieke-van-de-rakt/) of the Netherlands wrote about finding her place in a welcoming community. [Gobinda Tarafdar](https://heropress.com/contributors/gobinda-tarafdar/) from Bangladesh enlarged her life experience by making friends worldwide.
 
-Many of the essays center on a sentiment similiar to this line from [Michelle Schulp](https://heropress.com/essays/transformed-by-wordpress/) of Minnesota: “WordPress has changed my career. It has helped me achieve financial and personal independence.” 
+Many of the essays center on a sentiment similar to this line from [Michelle Schulp](https://heropress.com/essays/transformed-by-wordpress/) of Minnesota: “WordPress has changed my career. It has helped me achieve financial and personal independence.” 
 
 
 Often, they elaborate that they are women, older people, people with parenting responsibilities that limited their options, people with disabilities, or people who are marginalized in their cultures — in short, they were conscious of obstacles to their economic progress and fulfillment. 
@@ -57,7 +57,7 @@ But WordPress asks for a 5% give-back contribution in the [Five for the Future](
 Josepha brought up the concept of “free riders.”
 
 ### "Free Riders"
-There’s an economic about those who don’t contribute but reap the rewards. It’s called the [“free rider” problem](https://en.wikipedia.org/wiki/Free-rider_problem). The metaphor comes from people riding a bus without buying a ticket. As long as plenty of people buy tickets, a few can ride for free without any consequences: the supply of seats is adequate and their choice to pay or not to pay has no effect on the bus schedule. 
+There’s an economic theory about those who don’t contribute but reap the rewards. It’s called the [“free rider” problem](https://en.wikipedia.org/wiki/Free-rider_problem). The metaphor comes from people riding a bus without buying a ticket. As long as plenty of people buy tickets, a few can ride for free without any consequences: the supply of seats is adequate and their choice to pay or not to pay has no effect on the bus schedule. 
 
 Economics theory tells us, though, that there is a tipping point. If there are too many free riders, the system breaks down. 
 
@@ -75,7 +75,7 @@ The free rider metaphor works for resources that don’t get used up, as Josepha
 
 “How can we rebalance the tenacious need for contribution with the immense benefit WordPress brings to everyone, including our free riders and contributors?” she asked. 
 
-Commenters suggested including funding tools in WordPress and combining all the smaller contributors into a single identity, but also asked for an end to “disparaging” free riders and compassion for those organizations that couldn't “overcome the obstacles” to contribution. 
+Commenters suggested including funding tools in WordPress and combining all the smaller contributors into a single identity but also asked for an end to “disparaging” free riders and compassion for those organizations that couldn't “overcome the obstacles” to contribution. 
 
 ### Acknowledgment
 WordPress established the Five for the Future project in 2014. In 2018, Andrea Middleton wrote a proposal for a Five for the Future acknowledgment page. The idea was to acknowledge companies that supported the effort and to motivate more companies to join. 
