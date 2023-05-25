@@ -43,7 +43,7 @@ A plugin repository review team was established in 2012. The group included Mark
 
 In 2014, when the repository marked its billionth download, the top ten most popular plugins list began with Akismet and WordPress SEO by Yoast. Contact Form 7, Jetpack, and NextGen Gallery were high on the list, along with WooCommerce. 
 
-[IMAGE]
+![](https://wordpress.org/book/files/2023/05/Screenshot-of-WordPress-Featured-Plugins.png)
 
 Akismet, the core plugin that shields WordPress sites from spam comments, had been downloaded 25,653,482 times. 
 
