@@ -31,6 +31,8 @@ Calypso is a new interface for managing multiple WordPress sites written in Java
 
 Jetpack must be installed on your website for Calypso to be available, and you must download the app. In January 2015, there were just 71 contributors to Calypso. By November, there were 127. By the spring of 2020, the number had grown to 496.
 
+![](https://make.wordpress.org/marketing/files/2023/04/Calypso-from-Github.png)
+
 Calypso is now the standard interface for WordPress.com and is readily available for WordPress.org. It allows quick management of multiple websites from the same interface.
 
 As always, there were complaints. “I hope there is no plan or intention to delete the proper editor in favor of this terrible cut down version, clearly driven by the curse of the mobile phone,” wrote one commenter in a Calypso forum post.
