@@ -1,17 +1,14 @@
 # Building Blocks: The Evolution of WordPress 
 ## Chapter 12 — WordPress Matures
 
-2019’s theme for WordPress.org was “Tighten Up.” One step forward was the release of https://wordpress.org/news/2019/02/betty/, led by [Matt Mullenweg](http://ma.tt/) and [Gary Pendergast](https://pento.net/). It improved editor performance, optimized background processes, and helped users update outdated versions of PHP, and this suite of improvements proved a boon for the Project’s most technical users.
-
+2019’s theme for WordPress.org was “Tighten Up.” One step forward was the release of [Betty](https://wordpress.org/news/2019/02/betty/), led by [Matt Mullenweg](http://ma.tt/) and [Gary Pendergast](https://pento.net/). It improved editor performance, optimized background processes, and helped users update outdated versions of PHP, and this suite of improvements proved a boon for the Project’s most technical users.
 
 5.1 also introduced several Site Health features. The Site Health project provides a dashboard showing technical issues affecting the health of a website, with suggestions for improvement. Some suggestions are straightforward, like “Delete unused plugins,” but many are intended for developers rather than site owners.
 
-
 The updates specifically relating to PHP included: 
-Detection of outdated or insecure versions of PHP
-Notices about PHP versions
-Checks for plugin compatibility with the site’s PHP version
-
+* Detection of outdated or insecure versions of PHP
+* Notices about PHP versions
+* Checks for plugin compatibility with the site’s PHP version
 
 [5.2, Jaco](https://wordpress.org/news/2019/05/jaco/), was also released in 2019. It was led by [Matt Mullenweg](http://ma.tt/), [Josepha Haden Chomphosy](https://josepha.blog/), and [Gary Pendergast](https://pento.net/). 
 
