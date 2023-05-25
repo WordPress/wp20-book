@@ -6,7 +6,7 @@
 
 With Phases 1 and 2 of the Gutenberg project complete, WordPress is using its learnings to prepare for what lies ahead - Phases 3 and 4.
 
-![](https://make.wordpress.org/marketing/files/2023/04/Phases-of-Gutenberg-1.png)
+![image](https://make.wordpress.org/marketing/files/2023/04/Phases-of-Gutenberg-1.png)
 
 As Josepha put it, “Phases 1 and 2 of the Gutenberg project had a very ‘blocks everywhere’ sort of vision. And phase three and, arguably, phase four will have more of a ‘works with the way you work’ vision.”
 
