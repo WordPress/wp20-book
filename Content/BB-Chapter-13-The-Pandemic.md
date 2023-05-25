@@ -137,7 +137,7 @@ Even in the absence of serious mental health concerns, WordPress helped some peo
 
 The welcoming community and robust yet friendly software made WordPress an important source of support for pandemic-era health needs.
 
-The pandemic also reinforced the importance of collaboration, the focus of Gutenberg Phase 3. “A lot of good came out of the pandemic,” Courtney Robertson said. “”We didn’t have the volume [of contact] but I saw more teams mixing together…It reduced the global barriers actually that much more because everybody had to get comfortable hopping on to Zoom more.”
+The pandemic also reinforced the importance of collaboration, the focus of Gutenberg Phase 3. “A lot of good came out of the pandemic,” Courtney Robertson said. “We didn’t have the volume [of contact] but I saw more teams mixing together…It reduced the global barriers actually that much more because everybody had to get comfortable hopping on to Zoom more.”
 
 Tammie Lister, too, remarked that she no longer took her ability to travel the world and connect with other people for granted. “I look out the window now,” she mused. “Even on airplanes.” 
 
