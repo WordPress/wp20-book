@@ -45,7 +45,7 @@ To go with the app, they created a new license, “The Enhanced MIT License,” 
 To some, this might not sound like something a lawyer would say, and that would be correct. EMIT was not written up in legal terms and has not been used since Wix leveraged it to make a point about their misstep. 
 
 
-### Wix vs. WordPress
+### Wix vs. WordPress continues
 The controversy resolved once Wix removed the GPL-licensed code from their app. But the bad feelings seem to have lingered on. In 2021, Wix produced an anti-WordPress campaign. 
 
 Wix began by sending WordPress influencers Bose headphones. They didn’t show the source of the gifts except on the shipping label. Instead, they enclosed a note with a QR code, signed “Yours, WP.”
