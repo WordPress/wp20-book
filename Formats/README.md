@@ -1,4 +1,4 @@
-# Download Milestones: The Story of WordPress
+# Download Building Blocks: The Evolution of WordPress
 
 The book is available in three formats:
 
