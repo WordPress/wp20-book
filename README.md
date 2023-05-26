@@ -1,6 +1,6 @@
 # wp20-book
 
-Welcome to the online repository for our book on the history and development of WordPress. This book focuses on the 2nd decade of the WordPress project, especially the Gutenberg project, the global pandemic, and a look at the hoped-for future of our project.
+Welcome to the online repository for the book, *Building Blocks: The Evolution of WordPress*, on the history and development of WordPress. This book focuses on the 2nd decade of the WordPress project, especially the Gutenberg project, the global pandemic, and a look at the hoped-for future of our project.
 
 ## Table of Contents
 
