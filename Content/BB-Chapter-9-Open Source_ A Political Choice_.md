@@ -44,13 +44,20 @@ Biden’s [WhiteHouse.gov](http://whitehouse.gov) focused on accessibility. It i
 
 [Andrew Nacin](https://profiles.wordpress.org/nacin/) oversaw the WhiteHouse.gov effort for Biden’s administration, and the new site was completed in six weeks, launching on inauguration day.
 
+Helen Hou-Sandi, the lead developer on the project, explains that one goal for the website was to provide an extremely easy-to-use interface for the people in the White House, who would not have the leisure to accommodate a steep learning curve.
+
+“We built a really one-to-one visual editing experience in the block editor,” she said. “The idea was that we should demonstrate just how great the block editor could be if you were willing to let go of the past.”
+
+Nowadays, she emphasizes, people don’t expect to have to type into a form. “We wanted to support the high-speed output by the White House.” Staffers could cut and paste from documents produced in whatever format was required for them to get approval, she pointed out. “Whatever your opinions are politically, a government website should respond quickly to modern needs… You’re talking about immediate communication.”
+At the same time, the very modern website demonstrated that the new government had control over new technology.
+
 
 ### Not Just U.S. presidents
 While the use of WordPress by three presidents of the United States in a row (so far) indicates the platform’s importance, it is not only the presidents who use WordPress in government. 
 
 The State Department’s official website, State.gov, is a WordPress website. USA.gov, and the new beta site at beta.usa.gov, are WordPress websites. 
 
-According to [PublishPress](https://publishpress.com/blog/us-federal-government-websites-wordpress/), every U.S. embassy in the world uses WordPress. [Democrats.org](https://democrats.org/) is the Democratic Party’s website, also powered by WordPress. The Republican Party does not use WordPress, but the [Republican Governors Association](https://www.rga.org) does. The [Library of Congress](https://blogs.loc.gov/loc/) runs its blog on WordPress. [Digital.gov](https://digital.gov/) is a WordPress website. 
+According to [PublishPress](https://publishpress.com/blog/us-federal-government-websites-wordpress/), every U.S. embassy in the world uses WordPress. [Democrats.org](https://democrats.org/), the Democratic Party’s website, is also powered by WordPress. The Republican Party does not use WordPress, but the [Republican Governors Association](https://www.rga.org) does. The [Library of Congress](https://blogs.loc.gov/loc/) runs its blog on WordPress. [Digital.gov](https://digital.gov/) is a WordPress website. 
 
 State and city governments also use WordPress widely. The popularity of WordPress for government websites should put to rest the myth that WordPress is less secure than traditional websites. 
 
