@@ -98,10 +98,18 @@ In 2017, the Diversity Outreach Speaker Training working group began meeting. Di
 
 In 2020, after several years of planning and effort, Josepha led WordPress release 5.6, "Simone," with a release squad of women and non-binary individuals. “WordPress can be used by anybody,” she said, “so it should also be built by anybody.”
 
+[Release names](https://wordpress.org/about/history/) had similarly celebrated far more male jazz musicians than female ones. More significantly, contributors continued to be disproportionately male, particularly among the developers. 5.6 sought to address this issue as well.
+
+[Helen Hou-Sandi](https://profiles.wordpress.org/helen/), who became a lead developer in 2015, recalls that many people assumed she was a designer rather than a developer because she was female.
+
+While she remarks that “Sexism and racism are daily experiences,” she also points out that this is not specific to WordPress; it reflects the reality of the tech field and of open source projects.
+
+“What gives you the time, the opportunity, even the confidence to insert yourself into the project, working in public?” she asks. Her answer: usually, only members of the dominant culture have this kind of self-assurance.
+
 Not everyone agreed. [Francesca Marano](https://profiles.wordpress.org/francina/) recalls that there were some reacted with anger. “A release for women–that’s discrimination,” she heard some people saying. “It showed the true allies of women in WordPress.”
 
 It also brought new contributors to the project. “It was a way for underrepresented folks to get their foot in the door,” Francesca said.
 
 5.6 introduced a new default theme, Twenty Twenty-One, focusing on accessibility and built-in  block patterns. It allowed users to opt into automatic core updates and improved video captioning. More than 600 volunteers contributed to this release.
 
-2014 was a watershed year for diversity and inclusion for WordPress. Years of work followed, and results continue to blossom.
+2014 was a watershed year for diversity and inclusion for WordPress. Years of work followed, and results still continue to blossom.
