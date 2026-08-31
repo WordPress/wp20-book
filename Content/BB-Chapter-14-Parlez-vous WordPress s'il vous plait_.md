@@ -1,9 +1,9 @@
 # Building Blocks: The Evolution of WordPress 
 ## Chapter 14 — “Parlez-vous WordPress s’il vous plaît?”
 ### Multilingual efforts over the years
-As the pandemic slowed down, a new awareness of the ways in which the world is interconnected brought increasing concern with the plans for Gutenberg Phase 4 -- Multilingual Support. 
+As the pandemic slowed down, a new awareness of the ways in which the world is interconnected brought increasing concern with the plans for Gutenberg Phase 4—Multilingual Support. 
 
-Multiple languages were not by any means a new phenomenon for WordPress. “WordPress has always been localized,” says Francesca Morano. “Localization of WordPress and the wealth of plugins we have is the big factor in making WordPress so popular.” A look at the history of WordPress shows that localization gathered momentum as time went on. 
+Multiple languages were not by any means a new phenomenon for WordPress. “WordPress has always been localized,” says Francesca Marano. “Localization of WordPress and the wealth of plugins we have is the big factor in making WordPress so popular.” A look at the history of WordPress shows that localization gathered momentum as time went on. 
 
 Multiple language packs, the technology that allows automatic translation on WordPress sites, were available as early as 2007. The first Rosetta site—WordPress.org websites in non-English languages—was launched in 2008. It was in [Bulgarian](https://br.wordpress.org), largely because a Bulgarian contributor put in the time. While this was a classic example of progress where a highly motivated individual was involved, WordPress continued to move toward better multilingual performance every year.
 
@@ -43,7 +43,7 @@ The content of websites was controlled by the owners and producers of the websit
 
 Organizing a multilingual website can be done in several ways: multisite, all the languages on one site, with or without connections among the various translations, and so forth. These decisions are determined by the site owners and producers. WordPress doesn’t currently offer automatic translations or processes for building multilingual sites, though many plugins do.
 
-“It’s tricky,” says Matias, because there are many different solutions.” Building the collaborative processes in Phase 3 will give greater insights into the needs of multilingual sites and the people who use those websites. “We’re going to see,” says Matias, “the things they wish would exist.”
+“It’s tricky,” says Matias, “because there are many different solutions.” Building the collaborative processes in Phase 3 will give greater insights into the needs of multilingual sites and the people who use those websites. “We’re going to see,” says Matias, “the things they wish would exist.”
 
 Jeff Paul mentioned that people in the community would like to see multilingual support (planned as Phase 4) come before collaboration (planned as Phase 3). Matt mentioned that he gets that request often, and Courtney Robertson admitted that she’s one of the people who makes that request. A desire for global diversity is on the rise in the WordPress community.
 
@@ -59,7 +59,7 @@ Internationalization is the process of making a website available for localizati
 
 Both localization and internationalization are essential for a global web solution. 
 
-The Polyglot team comprises volunteer contributors working to translate WordPress into their native languages. Languages are further divided by locales: French, as spoken in Belgium, is separate from French spoken in France. 
+The Polyglots team comprises volunteer contributors working to translate WordPress into their native languages. Languages are further divided by locales: French, as spoken in Belgium, is separate from French spoken in France. 
 
 Currently, 208 locales are at some stage of preparation. Contributors range from one for Icelandic to 3,959 for French (France). “It’s amazing WordPress is available in so many languages,” Yvette Sonneveld points out, considering that all the translation is done by volunteers. 
 
