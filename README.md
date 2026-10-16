@@ -1,5 +1,8 @@
 # wp20-book
 
+> [!IMPORTANT]
+> This book now lives in [WordPress/library](https://github.com/WordPress/library/tree/trunk/milestones-vol-2), as Volume 2 of the Milestones series. Please open issues and pull requests there. Changes made in this repo do not reach the library or [wordpress.org/book](https://wordpress.org/book/).
+
 Welcome to the online repository for the book, *Building Blocks: The Evolution of WordPress*, on the history and development of WordPress. This book focuses on the 2nd decade of the WordPress project, especially the Gutenberg project, the global pandemic, and a look at the hoped-for future of our project.
 
 ## Table of Contents
@@ -12,7 +15,7 @@ The following feedback is particularly valuable:
 - *Omissions*: anything that you feel has been omitted or not sufficiently covered. Note that this is a lengthy piece of writing and many issues have to be condensed to ensure that it is a manageable and interesting read. Suggestions about omissions should be accompanied with information about why it should be included, and backed up with evidence as to their importance.
 - *Images*: if you have any images that you feel would complement the text, we'd love to have them.
 
-All feedback should be opened as [issues](https://github.com/WordPress/wp20-book/issues) in the tracker.
+All feedback should be opened as [issues](https://github.com/WordPress/library/issues) in the tracker.
 
 ## Translations
 
